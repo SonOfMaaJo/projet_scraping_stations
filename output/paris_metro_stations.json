@@ -1,0 +1,3365 @@
+{
+    "Alma - Marceau (Paris Metro)": {
+        "Localisation": "48° 51′ 53.89″ N, 2° 18′ 02.3″ E",
+        "Named after": "place de l'Almaavenue Marceau",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Heritage designation": "Remarkable Contemporary Architecture",
+        "Date of official opening": "27 May 1923",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Iéna (Pont de Sèvres, Paris Métro Line 9)Franklin D. Roosevelt (Mairie de Montreuil, Paris Métro Line 9)",
+        "Interchange station": "Pont de l'Alma"
+    },
+    "Les Agnettes (Paris Metro)": {
+        "Localisation": "48° 55′ 22.94″ N, 2° 17′ 09.21″ E"
+    },
+    "Alexandre Dumas (Paris Metro)": {
+        "Localisation": "48° 51′ 20.99″ N, 2° 23′ 40.99″ E",
+        "Named after": "rue Alexandre-Dumas (1970–)",
+        "Location": "11th arrondissement of Paris, Paris, Grand Paris, France",
+        "Located on street": "boulevard de Charonne",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Heritage designation": "monument historique inscrit (entrance, 1978–2016)monument historique inscrit (entrance, Paris Métro entrances by Hector Guimard, 2016–)",
+        "Date of official opening": "31 January 1903",
+        "Connecting line": "Paris Métro Line 2",
+        "Adjacent station": "Philippe Auguste (Porte Dauphine, Paris Métro Line 2)Avron (Nation, Paris Métro Line 2)"
+    },
+    "Abbesses (Paris Metro)": {
+        "Localisation": "48° 53′ 04″ N, 2° 20′ 19″ E"
+    },
+    "Aimé Césaire (Paris Metro)": {
+        "Localisation": "48° 54′ 29.9″ N, 2° 22′ 40.9″ E"
+    },
+    "Alésia (Paris Metro)": {
+        "Localisation": "48° 49′ 42.23″ N, 2° 19′ 36.28″ E",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 October 1909",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Mouton-Duvernet (Porte de Clignancourt, Paris Métro Line 4)Porte d'Orléans (Bagneux–Lucie Aubrac, Paris Métro Line 4)"
+    },
+    "Anatole France (Paris Metro)": {
+        "Localisation": "48° 53′ 30.98″ N, 2° 17′ 08.02″ E",
+        "Named after": "rue Anatole-France",
+        "Location": "Levallois-Perret, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 September 1937",
+        "Significant event": "renovation (estimation, 2017–2019)",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Pont de Levallois – Bécon (Pont de Levallois – Bécon, Paris Métro Line 3)Louise Michel (Gallieni, Paris Métro Line 3)",
+        "Different from": "Anatole France"
+    },
+    "Anvers (Paris Metro)": {
+        "Localisation": "48° 52′ 58″ N, 2° 20′ 41″ E"
+    },
+    "Arcueil - Cachan (Paris Metro)": {
+        "Localisation": "48° 47′ 51″ N, 2° 19′ 41.63″ E",
+        "Location": "Cachan, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Significant event": "Déclaration d'utilité publique (2014)",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Bagneux–Lucie Aubrac (Pont de Sèvres, Paris Métro Line 15)Villejuif - Gustave Roussy (Noisy - Champs, Paris Métro Line 15)"
+    },
+    "Antonypole - Wissous Centre (Paris Metro)": {
+        "Localisation": "48° 44′ 08″ N, 2° 18′ 34″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Massy Opéra (Nanterre La Folie, Paris Métro Line 18)Aéroport d'Orly (Aéroport d'Orly, Paris Métro Line 18)"
+    },
+    "Les Ardoines (Paris Metro)": {
+        "Localisation": "48° 46′ 56.64″ N, 2° 24′ 30.64″ E",
+        "Location": "Vitry-sur-Seine, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Vitry Centre (Pont de Sèvres, Paris Métro Line 15)Le Vert de Maisons (Noisy - Champs, Paris Métro Line 15)",
+        "Different from": "Les Ardoines"
+    },
+    "Arsenal (Paris Metro)": {
+        "Localisation": "48° 50′ 56.55″ N, 2° 21′ 59.91″ E",
+        "Named after": "Bassin de l'Arsenal",
+        "Location": "Quartier de l'Arsenal, 4th arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Inception": "17 December 1906",
+        "Date of official opening": "17 December 1906",
+        "Date of official closure": "2 September 1939 (World War II)",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Quai de la RapéeBastille"
+    },
+    "Argentine (Paris Metro)": {
+        "Localisation": "48° 52′ 31.92″ N, 2° 17′ 21.56″ E",
+        "Named after": "rue d'Argentine",
+        "Location": "16th arrondissement of Paris17th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Date of official opening": "1 September 1900",
+        "Connecting line": "Paris Métro Line 1 (Charles de Gaulle - Étoile, Porte Maillot)",
+        "Adjacent station": "Porte Maillot (La Défense, Paris Métro Line 1)Charles de Gaulle - Étoile (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Arts et Métiers (Paris Metro)": {
+        "Localisation": "48° 51′ 55.01″ N, 2° 21′ 24.98″ E",
+        "Named after": "Conservatoire national des Arts et Métiers",
+        "Location": "3rd arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1904",
+        "Date of official opening": "19 October 1904",
+        "Connecting line": "Paris Métro Line 3Paris Métro Line 11",
+        "Adjacent station": "Réaumur – Sébastopol (Pont de Levallois – Bécon, Paris Métro Line 3)Temple (Gallieni, Paris Métro Line 3)Rambuteau (Châtelet, Paris Métro Line 11)République (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Assemblée nationale (Paris Metro)": {
+        "Localisation": "48° 51′ 38″ N, 2° 19′ 16″ E",
+        "Named after": "National Assembly",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Concorde (Mairie d'Aubervilliers, Paris Métro Line 12)Solférino (Mairie d'Issy, Paris Métro Line 12)",
+        "Different from": "National Assembly Station"
+    },
+    "Aubervilliers - Pantin - Quatre Chemins (Paris Metro)": {
+        "Localisation": "48° 54′ 14″ N, 2° 23′ 31.99″ E",
+        "Named after": "AubervilliersPantinQuatre-Chemins",
+        "Location": "Aubervilliers, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "4 October 1979",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Porte de la Villette (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Fort d'Aubervilliers (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Avenue Émile-Zola (Paris Metro)": {
+        "Localisation": "48° 50′ 49.25″ N, 2° 17′ 43.15″ E",
+        "Named after": "avenue Émile-Zola",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1913",
+        "Date of official opening": "13 July 1913",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Charles Michels (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)La Motte-Picquet – Grenelle (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Aéroport Charles-de-Gaulle 2 TGV (Paris Metro)": {
+        "Localisation": "49° 00′ 16.93″ N, 2° 34′ 12.86″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 17",
+        "Adjacent station": "Aéroport Charles-de-Gaulle Terminal 4 (Le Mesnil-Amelot, Paris Métro Line 17)Parc des Expositions (Saint-Denis Pleyel, Paris Métro Line 17)",
+        "Interchange station": "Aéroport Charles de Gaulle 2 TGVTerminal 2 - Gare"
+    },
+    "Avron (Paris Metro)": {
+        "Localisation": "48° 51′ 07″ N, 2° 23′ 52″ E"
+    },
+    "Aulnay Val Francilia (Paris Metro)": {
+        "Localisation": "48° 57′ 05.04″ N, 2° 29′ 17.52″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16",
+        "Adjacent station": "Sevran - Beaudottes (Noisy - Champs, Paris Métro Line 16)Le Blanc-Mesnil (Saint-Denis Pleyel, Paris Métro Line 16)"
+    },
+    "Aéroport d'Orly (Paris Metro)": {
+        "Localisation": "48° 43′ 43.51″ N, 2° 21′ 44.53″ E",
+        "Part of": "Orly Airport",
+        "Named after": "Orly Airport",
+        "Location": "Paray-Vieille-Poste, Essonne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATPKeolis",
+        "Operator": "RATPKeolis",
+        "Inception": "24 June 2024",
+        "Date of official opening": "24 June 2024",
+        "Connecting line": "Paris Métro Line 14 (Thiais - Orly, RATP)",
+        "Adjacent station": "Thiais - Orly (Saint-Denis Pleyel, Paris Métro Line 14)Antonypole - Wissous Centre (Nanterre La Folie, Paris Métro Line 18)"
+    },
+    "Barbès - Rochechouart (Paris Metro)": {
+        "Localisation": "48° 53′ 01″ N, 2° 20′ 59.1″ E"
+    },
+    "Basilique de Saint-Denis (Paris Metro)": {
+        "Localisation": "48° 56′ 17″ N, 2° 21′ 39″ E",
+        "Location": "Saint-DenisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "20 June 1976",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Saint-Denis – Université (Saint-Denis – Université, Paris Métro Line 13)Saint-Denis – Porte de Paris (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Interchange station": "Basilique de Saint-Denis"
+    },
+    "Balard (Paris Metro)": {
+        "Localisation": "48° 50′ 11.04″ N, 2° 16′ 42.17″ E",
+        "Named after": "place Balard",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 July 1937",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Lourmel (Pointe du Lac, Paris Métro Line 8)",
+        "Interchange station": "Balard"
+    },
+    "Bastille (Paris Metro)": {
+        "Localisation": "48° 51′ 10.23″ N, 2° 22′ 09.05″ E",
+        "Named after": "Place de la Bastille",
+        "Location": "4th arrondissement of Paris11th arrondissement of Paris12th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Heritage designation": "monument historique inscrit (entrance, 1978–2016)monument historique inscrit (entrée, Paris Métro entrances by Hector Guimard, 2016–)",
+        "Date of official opening": "19 July 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1 (Gare de Lyon, Saint-Paul (Le Marais))Paris Métro Line 5 (Quai de la Rapée, Bréguet – Sabin)Paris Métro Line 8 (Ledru-Rollin, Chemin Vert)",
+        "Adjacent station": "Saint-Paul (Le Marais) (La Défense, Paris Métro Line 1)Gare de Lyon (Château de Vincennes, Paris Métro Line 1)Quai de la Rapée (Place d'Italie, Paris Métro Line 5, 1939–)Bréguet – Sabin (Bobigny – Pablo Picasso, Paris Métro Line 5)Chemin Vert (Balard, Paris Métro Line 8)Ledru-Rollin (Pointe du Lac, Paris Métro Line 8)",
+        "Different from": "Bastille "
+    },
+    "Bagneux - Lucie Aubrac (Paris Metro)": {},
+    "Bibliothèque François-Mitterrand (Paris Metro)": {
+        "Localisation": "48° 49′ 47.39″ N, 2° 22′ 36.12″ E",
+        "Named after": "Bibliothèque nationale de France",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "15 October 1998",
+        "Date of official opening": "15 October 1998",
+        "Connecting line": "Paris Métro Line 14Paris Métro Line 10 (proposed building or structure)",
+        "Adjacent station": "Cour Saint-Émilion (Saint-Denis Pleyel, Paris Métro Line 14)Olympiades (Aéroport d'Orly, Paris Métro Line 14)",
+        "Interchange station": "Bibliothèque François Mitterrand Station"
+    },
+    "Belleville (Paris Metro)": {
+        "Localisation": "48° 52′ 19.99″ N, 2° 22′ 40.01″ E",
+        "Location": "10th arrondissement of Paris11th arrondissement of Paris19th arrondissement of Paris20th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "31 January 1903",
+        "Connecting line": "Paris Métro Line 2Paris Métro Line 11 (1935–)",
+        "Adjacent station": "Colonel Fabien (Porte Dauphine, Paris Métro Line 2)Couronnes (Nation, Paris Métro Line 2)Goncourt (Châtelet, Paris Métro Line 11)Pyrénées (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Bel-Air (Paris Metro)": {
+        "Localisation": "48° 50′ 28.86″ N, 2° 24′ 03.35″ E",
+        "Named after": "Quartier du Bel-Air",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 March 1909",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Daumesnil (Charles de Gaulle - Étoile, Paris Métro Line 6)Picpus (Nation, Paris Métro Line 6)",
+        "Different from": "Bel Air "
+    },
+    "Bérault (Paris Metro)": {
+        "Localisation": "48° 50′ 43.2″ N, 2° 25′ 45.26″ E",
+        "Named after": "place Bérault",
+        "Location": "VincennesSaint-MandéFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1934–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1934–1948)",
+        "Date of official opening": "24 March 1934",
+        "Connecting line": "Paris Métro Line 1 (Château de Vincennes, Saint-Mandé)",
+        "Adjacent station": "Saint-Mandé (La Défense, Paris Métro Line 1)Château de Vincennes (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Bercy (Paris Metro)": {
+        "Localisation": "48° 50′ 22.99″ N, 2° 22′ 49.01″ E",
+        "Named after": "Quartier de Bercy",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1909",
+        "Date of official opening": "1 March 1909",
+        "Connecting line": "Paris Métro Line 6Paris Métro Line 14 (1998–)",
+        "Adjacent station": "Quai de la Gare (Charles de Gaulle - Étoile, Paris Métro Line 6)Dugommier (Nation, Paris Métro Line 6)Gare de Lyon (Saint-Denis Pleyel, Paris Métro Line 14)Cour Saint-Émilion (Aéroport d'Orly, Paris Métro Line 14)"
+    },
+    "Bobigny - Pablo Picasso (Paris Metro)": {
+        "Localisation": "48° 54′ 24.83″ N, 2° 26′ 57.2″ E",
+        "Named after": "BobignyRue Pablo-Picasso",
+        "Location": "Bobigny, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "25 April 1985",
+        "Connecting line": "Paris Métro Line 5Paris Métro Line 15 (building or structure under construction)",
+        "Adjacent station": "Bobigny – Pantin – Raymond Queneau (Place d'Italie, Paris Métro Line 5)Pont de Bondy (Champigny Centre, Paris Métro Line 15, building or structure under construction)Drancy - Bobigny (Saint-Denis Pleyel, Paris Métro Line 15, building or structure under construction)",
+        "Interchange station": "Bobigny - Pablo Picasso (tramway d'Île-de-France)"
+    },
+    "Billancourt (Paris Metro)": {
+        "Localisation": "48° 49′ 54.98″ N, 2° 14′ 17.02″ E",
+        "Named after": "Billancourt",
+        "Location": "Boulogne-Billancourt, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "3 February 1934",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Pont de Sèvres (Pont de Sèvres, Paris Métro Line 9)Marcel Sembat (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Bir-Hakeim (Paris Metro)": {
+        "Localisation": "48° 51′ 13.97″ N, 2° 17′ 21.8″ E",
+        "Named after": "pont de Bir-Hakeim",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Passy (Charles de Gaulle - Étoile, Paris Métro Line 6)Dupleix (Nation, Paris Métro Line 6)",
+        "Interchange station": "Champ de Mars–Tour Eiffel",
+        "Different from": "Battle of Bir Hakeim"
+    },
+    "Blanche (Paris Metro)": {
+        "Localisation": "48° 53′ 01.12″ N, 2° 19′ 59.33″ E"
+    },
+    "Bobigny - Pantin - Raymond Queneau (Paris Metro)": {
+        "Localisation": "48° 53′ 43.01″ N, 2° 25′ 28.99″ E",
+        "Named after": "BobignyPantinRue Raymond-Queneau",
+        "Location": "BobignyPantinFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "25 April 1985",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Église de Pantin (Place d'Italie, Paris Métro Line 5)Bobigny – Pablo Picasso (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Bondy (Paris Metro)": {
+        "Localisation": "48° 53′ 37.68″ N, 2° 28′ 49.08″ E",
+        "Location": "Bondy, arrondissement of Bobigny, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Rosny-Bois-Perrier (Champigny Centre, Paris Métro Line 15)Pont de Bondy (Saint-Denis Pleyel, Paris Métro Line 15)"
+    },
+    "Boissière (Paris Metro)": {
+        "Localisation": "48° 52′ 01″ N, 2° 17′ 24″ E",
+        "Named after": "rue Boissière",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Located on street": "avenue Kléber",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Heritage designation": "monument historique inscrit (entrance, 1978–2016)monument historique inscrit (entrance, Paris Métro entrances by Hector Guimard, 2016–)",
+        "Date of official opening": "2 October 1900",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Kléber (Charles de Gaulle - Étoile, Paris Métro Line 6)Trocadéro (Nation, Paris Métro Line 6)",
+        "Different from": "La Boissière "
+    },
+    "Bolivar (Paris Metro)": {
+        "Localisation": "48° 52′ 50″ N, 2° 22′ 30″ E",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "18 July 1911",
+        "Connecting line": "Paris Métro Line 7bis",
+        "Adjacent station": "Buttes Chaumont (Pré Saint-Gervais, Paris Métro Line 7bis)Jaurès (Louis Blanc, Paris Métro Line 7bis)",
+        "Different from": "Bolivar"
+    },
+    "Bois-Colombes (Paris Metro)": {
+        "Localisation": "48° 54′ 54.03″ N, 2° 16′ 19.63″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Les Agnettes (Saint-Denis Pleyel, Paris Métro Line 15)Bécon-les-Bruyères (Pont de Sèvres, Paris Métro Line 15)",
+        "Interchange station": "Gare de Bois-Colombes"
+    },
+    "Bonne-Nouvelle (Paris Metro)": {
+        "Localisation": "48° 52′ 13.94″ N, 2° 20′ 55.39″ E",
+        "Location": "2nd arrondissement of Paris9th arrondissement of Paris10th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8Paris Métro Line 9 (1933–)",
+        "Adjacent station": "Grands Boulevards (Balard, Paris Métro Line 8)Strasbourg – Saint-Denis (Pointe du Lac, Paris Métro Line 8)Grands Boulevards (Pont de Sèvres, Paris Métro Line 9)Strasbourg – Saint-Denis (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Botzaris (Paris Metro)": {
+        "Localisation": "48° 52′ 46″ N, 2° 23′ 17″ E"
+    },
+    "Boucicaut (Paris Metro)": {
+        "Localisation": "48° 50′ 27.91″ N, 2° 17′ 16.04″ E",
+        "Named after": "rue Marguerite-Boucicaut",
+        "Location": "Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1937",
+        "Date of official opening": "27 July 1937",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Lourmel (Balard, Paris Métro Line 8)Félix Faure (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Bréguet - Sabin (Paris Metro)": {
+        "Localisation": "48° 51′ 24.3″ N, 2° 22′ 13.9″ E"
+    },
+    "Brochant (Paris Metro)": {
+        "Localisation": "48° 53′ 27″ N, 2° 19′ 11″ E",
+        "Location": "17th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1912",
+        "Date of official opening": "20 January 1912",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Porte de Clichy (Les Courtilles, Paris Métro Line 13)La Fourche (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Bourse (Paris Metro)": {
+        "Localisation": "48° 52′ 07.85″ N, 2° 20′ 28.93″ E",
+        "Named after": "place de la Bourse",
+        "Location": "2nd arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "19 October 1904",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Quatre-Septembre (Pont de Levallois – Bécon, Paris Métro Line 3)Sentier (Gallieni, Paris Métro Line 3)"
+    },
+    "Boulogne - Pont de Saint-Cloud (Paris Metro)": {
+        "Localisation": "48° 50′ 26.46″ N, 2° 13′ 41.99″ E",
+        "Named after": "Pont de Saint-Cloud",
+        "Location": "Boulogne-Billancourt, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "2 October 1981",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Boulogne – Jean Jaurès (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Bécon-les-Bruyères (Paris Metro)": {
+        "Localisation": "48° 54′ 19.19″ N, 2° 16′ 01.11″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Bois-Colombes (Saint-Denis Pleyel, Paris Métro Line 15)La Défense (Pont de Sèvres, Paris Métro Line 15)",
+        "Interchange station": "Bécon-les-Bruyères"
+    },
+    "Boulogne - Jean Jaurès (Paris Metro)": {
+        "Localisation": "48° 50′ 32″ N, 2° 14′ 20″ E",
+        "Named after": "Boulogne-Billancourtboulevard Jean-Jaurès",
+        "Location": "Boulogne-Billancourt, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1980",
+        "Date of official opening": "3 October 1980",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Boulogne – Pont de Saint-Cloud (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Michel-Ange – Molitor (Gare d'Austerlitz, Paris Métro Line 10)Porte d'Auteuil (Paris Métro Line 10)"
+    },
+    "Cadet (Paris Metro)": {
+        "Localisation": "48° 52′ 33.5″ N, 2° 20′ 40.2″ E"
+    },
+    "Buttes Chaumont (Paris Metro)": {
+        "Localisation": "48° 52′ 43″ N, 2° 22′ 54″ E",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 February 1912",
+        "Connecting line": "Paris Métro Line 7bis",
+        "Adjacent station": "Botzaris (Pré Saint-Gervais, Paris Métro Line 7bis)Bolivar (Louis Blanc, Paris Métro Line 7bis)"
+    },
+    "Buzenval (Paris Metro)": {
+        "Localisation": "48° 51′ 06.32″ N, 2° 24′ 04.85″ E",
+        "Named after": "rue de Buzenval",
+        "Location": "20th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "10 December 1933",
+        "Significant event": "renovation (2008)",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Nation (Pont de Sèvres, Paris Métro Line 9)Maraîchers (Mairie de Montreuil, Paris Métro Line 9)",
+        "Visitors per year": "1,914,564 (2013)"
+    },
+    "Cambronne (Paris Metro)": {
+        "Localisation": "48° 50′ 51.04″ N, 2° 18′ 10.62″ E",
+        "Named after": "rue Cambronne",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "La Motte-Picquet – Grenelle (Charles de Gaulle - Étoile, Paris Métro Line 6)Sèvres – Lecourbe (Nation, Paris Métro Line 6)",
+        "Different from": "Pierre Cambronne"
+    },
+    "Cardinal Lemoine (Paris Metro)": {
+        "Localisation": "48° 50′ 47.83″ N, 2° 21′ 05.96″ E",
+        "Named after": "rue du Cardinal-Lemoine",
+        "Location": "5th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1931",
+        "Date of official opening": "26 April 1931",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Maubert - Mutualité (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Jussieu (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Campo-Formio (Paris Metro)": {},
+    "Carrefour Pleyel (Paris Metro)": {
+        "Localisation": "48° 55′ 10.34″ N, 2° 20′ 35.26″ E",
+        "Named after": "carrefour Pleyel",
+        "Location": "Saint-DenisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 June 1952",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Saint-Denis – Porte de Paris (Saint-Denis – Université, Paris Métro Line 13)Mairie de Saint-Ouen (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Censier - Daubenton (Paris Metro)": {
+        "Localisation": "48° 50′ 26.99″ N, 2° 21′ 06.01″ E",
+        "Named after": "rue Censierrue Daubenton",
+        "Location": "5th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "15 February 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Les Gobelins (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Place Monge (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Champ de Mars (Paris Metro)": {
+        "Localisation": "48° 51′ 04.67″ N, 2° 18′ 03.79″ E",
+        "Named after": "Champ de Mars",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Inception": "13 July 1913",
+        "Date of official opening": "13 July 1913",
+        "Date of official closure": "2 September 1939 (World War II)",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "La Motte-Picquet – Grenelle (Paris Métro Line 8)École Militaire (Paris Métro Line 8)",
+        "Different from": "Champ de Mars–Tour Eiffel"
+    },
+    "Champigny Centre (Paris Metro)": {
+        "Localisation": "48° 48′ 57.96″ N, 2° 30′ 07.78″ E",
+        "Location": "Champigny-sur-Marne, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Thomas Richez",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Nogent - Le Perreux (Saint-Denis Pleyel, Paris Métro Line 15)Saint-Maur - Créteil (Pont de Sèvres, Paris Métro Line 15)Bry-Villiers-Champigny (Noisy - Champs, Paris Métro Line 15)"
+    },
+    "Champs-Élysées - Clemenceau (Paris Metro)": {
+        "Localisation": "48° 52′ 02.68″ N, 2° 18′ 50.25″ E",
+        "Named after": "avenue des Champs-Élyséesplace Clemenceau",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Inception": "1900",
+        "Date of official opening": "19 July 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1 (Concorde, Franklin D. Roosevelt)Paris Métro Line 13 (Invalides, Miromesnil)",
+        "Adjacent station": "Franklin D. Roosevelt (La Défense, Paris Métro Line 1)Concorde (Château de Vincennes, Paris Métro Line 1)Miromesnil (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Invalides (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "La Chapelle (Paris Metro)": {
+        "Localisation": "48° 53′ 03.98″ N, 2° 21′ 36″ E",
+        "Named after": "boulevard de la Chapelle",
+        "Location": "10th arrondissement of Paris18th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "7 October 1902",
+        "Connecting line": "Paris Métro Line 2",
+        "Adjacent station": "Barbès - Rochechouart (Porte Dauphine, Paris Métro Line 2)Stalingrad (Nation, Paris Métro Line 2)",
+        "Interchange station": "Magenta railway stationGare de Paris-Nord"
+    },
+    "Chardon-Lagache (Paris Metro)": {
+        "Localisation": "48° 50′ 42.03″ N, 2° 15′ 59.35″ E"
+    },
+    "Charles Michels (Paris Metro)": {
+        "Localisation": "48° 50′ 48.01″ N, 2° 17′ 12.98″ E",
+        "Named after": "place Charles-Michels",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1913",
+        "Date of official opening": "13 July 1913",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Javel – André Citroën (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Avenue Émile Zola (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Charenton - Écoles (Paris Metro)": {
+        "Localisation": "48° 49′ 17″ N, 2° 24′ 49″ E",
+        "Named after": "Charenton-le-PontÉcole primaire Aristide-Briand",
+        "Location": "Charenton-le-Pont, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 October 1942",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Liberté (Balard, Paris Métro Line 8)École Vétérinaire de Maisons-Alfort (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Charles de Gaulle - Étoile (Paris Metro)": {
+        "Localisation": "48° 52′ 27.87″ N, 2° 17′ 44.75″ E",
+        "Named after": "place Charles-de-Gaulle",
+        "Location": "16th arrondissement of Paris17th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Date of official opening": "1 September 1900 (Paris Métro Line 1)",
+        "Date of official closure": "15 October 1907 (Place d'Italie, Paris Métro Line 2)17 May 1931 (Place d'Italie, Paris Métro Line 5)6 December 1931 (Paris Métro Line 6)6 October 1942 (Paris Métro Line 5)",
+        "Connecting line": "Paris Métro Line 1 (George V, Argentine)Paris Métro Line 2 (Ternes, Victor Hugo)Paris Métro Line 6 (Kléber)",
+        "Adjacent station": "Argentine (La Défense, Paris Métro Line 1)George V (Château de Vincennes, Paris Métro Line 1)Victor Hugo (Porte Dauphine, Paris Métro Line 2)Ternes (Nation, Paris Métro Line 2)Kléber (Nation, Paris Métro Line 6)",
+        "Interchange station": "Charles-de-Gaulle - Étoile"
+    },
+    "Charonne (Paris Metro)": {
+        "Localisation": "48° 51′ 18″ N, 2° 23′ 03.98″ E",
+        "Named after": "rue de Charonne",
+        "Location": "11th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "10 December 1933",
+        "Significant event": "Charonne Métro Station massacre",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Voltaire (Pont de Sèvres, Paris Métro Line 9)Rue des Boulets (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Château d'Eau (Paris Metro)": {
+        "Localisation": "48° 52′ 21.3″ N, 2° 21′ 19.7″ E"
+    },
+    "Château Rouge (Paris Metro)": {
+        "Localisation": "48° 53′ 13.83″ N, 2° 20′ 59.38″ E",
+        "Pronunciation audio": null,
+        "Named after": "place du Château-Rouge",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "21 April 1908",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Marcadet – Poissonniers (Porte de Clignancourt, Paris Métro Line 4)Barbès - Rochechouart (Bagneux–Lucie Aubrac, Paris Métro Line 4)",
+        "Different from": "Château Rouge "
+    },
+    "Château de Vincennes (Paris Metro)": {
+        "Localisation": "48° 50′ 40.33″ N, 2° 26′ 22.23″ E",
+        "Named after": "Château de Vincennes",
+        "Location": "12th arrondissement of ParisVincennesFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1934–1948)",
+        "Operator": "RATP (1949–)Centre des monuments nationauxCompagnie du chemin de fer métropolitain de Paris (1934–1948)",
+        "Inception": "24 March 1934",
+        "Date of official opening": "24 March 1934",
+        "Connecting line": "Paris Métro Line 1 (Bérault)",
+        "Adjacent station": "Bérault (La Défense, Paris Métro Line 1)Les Rigollots (Val de Fontenay, Paris Métro Line 1)"
+    },
+    "Château-Landon (Paris Metro)": {
+        "Localisation": "48° 52′ 41.99″ N, 2° 21′ 42.98″ E",
+        "Named after": "rue du Château-Landon",
+        "Location": "10th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Gare de l'Est (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Louis Blanc (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Châtillon - Montrouge (Paris Metro)": {
+        "Localisation": "48° 48′ 38.74″ N, 2° 18′ 05.8″ E",
+        "Named after": "ChâtillonMontrouge",
+        "Location": "ChâtillonMontrougeFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "9 November 1976",
+        "Connecting line": "Paris Métro Line 13Paris Métro Line 15 (building or structure under construction)",
+        "Adjacent station": "Malakoff – Rue Étienne Dolet (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Bagneux–Lucie Aubrac (Noisy - Champs, Paris Métro Line 15, building or structure under construction)Fort d'Issy - Vanves - Clamart (Pont de Sèvres, Paris Métro Line 15, building or structure under construction)",
+        "Interchange station": "Châtillon - Montrouge"
+    },
+    "Chaussée d'Antin - La Fayette (Paris Metro)": {
+        "Localisation": "48° 52′ 22.01″ N, 2° 20′ 01″ E",
+        "Named after": "rue de la Chaussée-d'Antinrue La Fayette",
+        "Location": "9th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 7Paris Métro Line 9 (1923–)",
+        "Adjacent station": "Opéra (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Le Peletier (La Courneuve - 8 Mai 1945, Paris Métro Line 7)Havre – Caumartin (Pont de Sèvres, Paris Métro Line 9)Richelieu – Drouot (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Chelles - Gournay (Paris Metro)": {
+        "Localisation": "48° 52′ 27.54″ N, 2° 35′ 08.91″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16",
+        "Adjacent station": "Noisy - Champs (Noisy - Champs, Paris Métro Line 16)Clichy - Montfermeil (Saint-Denis Pleyel, Paris Métro Line 16)",
+        "Interchange station": "Gare de Chelles-Gournay (building or structure under construction)"
+    },
+    "Châtelet (Paris Metro)": {
+        "Localisation": "48° 51′ 30.67″ N, 2° 20′ 49.63″ E",
+        "Location": "d:Q112334282d:Q1123342861st arrondissement of Paris4th arrondissement of ParisFrance",
+        "Located on street": "rue de RivoliRue des Lavandières-Sainte-Opportune",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Has part(s)": "Entrance to Châtelet metro station, rue de la FerronnerieEntrance to Châtelet metro station, rue des Lavandières-Sainte-OpportuneEntrance to Châtelet metro station, rue de la LingerieEntrance to Châtelet metro station, place Sainte-OpportuneEntrance to Châtelet metro station, théâtre du Châtelet",
+        "Heritage designation": "monument historique inscrit (entrance, 1978–2016)monument historique inscrit (entrée, Paris Métro entrances by Hector Guimard, 2016–)",
+        "Date of official opening": "6 August 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1Paris Métro Line 4 (1908–)Paris Métro Line 7 (1926–)Paris Métro Line 11 (1935–)Paris Métro Line 14 (1998–)",
+        "Adjacent station": "Louvre - Rivoli (La Défense, Paris Métro Line 1)Hôtel de Ville (Château de Vincennes, Paris Métro Line 1)Les Halles (Porte de Clignancourt, Paris Métro Line 4)Cité (Bagneux–Lucie Aubrac, Paris Métro Line 4)Pont Marie (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Pont Neuf (La Courneuve - 8 Mai 1945, Paris Métro Line 7)Hôtel de Ville (Rosny-Bois-Perrier, Paris Métro Line 11)Pyramides (Saint-Denis Pleyel, Paris Métro Line 14)Gare de Lyon (Aéroport d'Orly, Paris Métro Line 14)",
+        "Interchange station": "Gare de Châtelet – Les Halles",
+        "Different from": "Châtelet"
+    },
+    "Chemin Vert (Paris Metro)": {
+        "Localisation": "48° 51′ 24.01″ N, 2° 22′ 05.02″ E",
+        "Named after": "rue du Chemin-Vert",
+        "Location": "3rd arrondissement of Paris11th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Saint-Sébastien – Froissart (Balard, Paris Métro Line 8)Bastille (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Chevaleret (Paris Metro)": {
+        "Localisation": "48° 50′ 05.82″ N, 2° 22′ 05.02″ E",
+        "Named after": "Rue du Chevaleret",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 March 1909",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Nationale (Charles de Gaulle - Étoile, Paris Métro Line 6)Quai de la Gare (Nation, Paris Métro Line 6)Gare d'Austerlitz (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10, proposed building or structure)Bibliothèque François Mitterrand (Ivry-Gambetta, Paris Métro Line 10, proposed building or structure)"
+    },
+    "Chevilly-Larue (Paris Metro)": {
+        "Localisation": "48° 45′ 33″ N, 2° 21′ 59″ E",
+        "Named after": "Chevilly-Larue",
+        "Location": "Chevilly-Larue, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Brunet Saunier",
+        "Date of official opening": "24 June 2024",
+        "Connecting line": "Paris Métro Line 14",
+        "Adjacent station": "L'Haÿ-les-Roses (Saint-Denis Pleyel, Paris Métro Line 14)Thiais - Orly (Aéroport d'Orly, Paris Métro Line 14)",
+        "Interchange station": "Porte de Thiais"
+    },
+    "Christ de Saclay (Paris Metro)": {
+        "Localisation": "48° 43′ 47.5″ N, 2° 09′ 42.48″ E",
+        "Location": "Saclay, Essonne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Guyancourt (Nanterre La Folie, Paris Métro Line 18)Université Paris-Saclay (Aéroport d'Orly, Paris Métro Line 18)"
+    },
+    "Cité (Paris Metro)": {},
+    "Clamart (Paris Metro)": {
+        "Localisation": "48° 48′ 50.76″ N, 2° 16′ 24.24″ E",
+        "Location": "Issy-les-MoulineauxVanvesClamartFrance",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Issy RER (Pont de Sèvres, Paris Métro Line 15)Châtillon - Montrouge (Noisy - Champs, Paris Métro Line 15)",
+        "Interchange station": "Clamart"
+    },
+    "Clichy - Montfermeil (Paris Metro)": {
+        "Localisation": "48° 54′ 15.93″ N, 2° 33′ 23.64″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16",
+        "Adjacent station": "Chelles (Noisy - Champs, Paris Métro Line 16)Sevran - Livry (Saint-Denis Pleyel, Paris Métro Line 16)",
+        "Interchange station": "Clichy - Montfermeil (building or structure under construction)"
+    },
+    "Cluny - La Sorbonne (Paris Metro)": {
+        "Localisation": "48° 51′ 03.78″ N, 2° 20′ 39.38″ E",
+        "Named after": "rue de ClunySorbonne",
+        "Location": "5th arrondissement of Paris6th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "15 February 1930",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Odéon (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Maubert - Mutualité (Gare d'Austerlitz, Paris Métro Line 10)",
+        "Interchange station": "Saint-Michel–Notre-Dame"
+    },
+    "Colonel Fabien (Paris Metro)": {
+        "Localisation": "48° 52′ 40.6″ N, 2° 22′ 13″ E"
+    },
+    "Commerce (Paris Metro)": {
+        "Localisation": "48° 50′ 40.81″ N, 2° 17′ 37.57″ E",
+        "Named after": "rue du Commerce",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 July 1937",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Félix Faure (Balard, Paris Métro Line 8)La Motte-Picquet – Grenelle (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Concorde (Paris Metro)": {
+        "Localisation": "48° 51′ 58.26″ N, 2° 19′ 23.88″ E",
+        "Location": "1st arrondissement of Paris8th arrondissement of ParisFrance",
+        "Street address": "place de la Concorde, I e VIII arrondissements, Parigi",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Date of official opening": "13 August 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1 (Tuileries, Champs-Élysées - Clemenceau)Paris Métro Line 8 (Madeleine, Invalides)Paris Métro Line 12 (Assemblée nationale, Madeleine)",
+        "Adjacent station": "Champs-Élysées - Clemenceau (La Défense, Paris Métro Line 1)Tuileries (Château de Vincennes, Paris Métro Line 1)Invalides (Balard, Paris Métro Line 8)Madeleine (Pointe du Lac, Paris Métro Line 8)Madeleine (Mairie d'Aubervilliers, Paris Métro Line 12)Assemblée nationale (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Convention (Paris Metro)": {
+        "Localisation": "48° 50′ 15″ N, 2° 17′ 48″ E",
+        "Named after": "rue de la Convention",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Vaugirard (Mairie d'Aubervilliers, Paris Métro Line 12)Porte de Versailles (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Corentin Cariou (Paris Metro)": {
+        "Localisation": "48° 53′ 40″ N, 2° 22′ 54″ E",
+        "Named after": "avenue Corentin-Cariou (1946–)Pont levant de la rue de Crimée (1910–1946)",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1910",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Crimée (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Porte de la Villette (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Corentin Celton (Paris Metro)": {
+        "Localisation": "48° 49′ 37″ N, 2° 16′ 44″ E",
+        "Named after": "Corentin Celton",
+        "Location": "Issy-les-Moulineaux, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 March 1934",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Porte de Versailles (Mairie d'Aubervilliers, Paris Métro Line 12)Mairie d'Issy (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Corvisart (Paris Metro)": {
+        "Localisation": "48° 49′ 47.52″ N, 2° 21′ 01.82″ E",
+        "Named after": "rue Corvisart",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Glacière (Charles de Gaulle - Étoile, Paris Métro Line 6)Place d'Italie (Nation, Paris Métro Line 6)"
+    },
+    "Cour Saint-Émilion (Paris Metro)": {
+        "Localisation": "48° 50′ 00.78″ N, 2° 23′ 09.46″ E",
+        "Named after": "Cour Saint-Émilion",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "15 October 1998",
+        "Date of official opening": "15 October 1998",
+        "Connecting line": "Paris Métro Line 14",
+        "Adjacent station": "Bercy (Saint-Denis Pleyel, Paris Métro Line 14)Bibliothèque François Mitterrand (Aéroport d'Orly, Paris Métro Line 14)"
+    },
+    "Courcelles (Paris Metro)": {
+        "Localisation": "48° 52′ 45″ N, 2° 18′ 15″ E",
+        "Named after": "boulevard de Courcelles",
+        "Location": "8th arrondissement of Paris17th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1902",
+        "Date of official opening": "7 October 1902",
+        "Connecting line": "Paris Métro Line 2",
+        "Adjacent station": "Ternes (Porte Dauphine, Paris Métro Line 2)Monceau (Nation, Paris Métro Line 2)"
+    },
+    "Coteaux-Beauclair (Paris Metro)": {
+        "Localisation": "48° 52′ 56.06″ N, 2° 28′ 02.46″ E",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 June 2024",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "La Dhuys (Châtelet, Paris Métro Line 11)Rosny-Bois-Perrier (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "La Courneuve - 8 Mai 1945 (Paris Metro)": {
+        "Localisation": "48° 55′ 14.02″ N, 2° 24′ 38.02″ E",
+        "Named after": "La Courneuveplace du 8-Mai-1945",
+        "Location": "La Courneuve, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "6 May 1987",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Fort d'Aubervilliers (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)",
+        "Interchange station": "La Courneuve - 8 Mai 1945"
+    },
+    "Couronnes (Paris Metro)": {
+        "Localisation": "48° 52′ 09.4″ N, 2° 22′ 48.6″ E"
+    },
+    "Les Courtilles (Paris Metro)": {
+        "Localisation": "48° 55′ 50.18″ N, 2° 17′ 01.64″ E",
+        "Location": "Asnières-sur-SeineGennevilliersFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "2008",
+        "Date of official opening": "14 June 2008",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Les Agnettes (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Interchange station": "Les Courtilles"
+    },
+    "Créteil - l'Échat (Paris Metro)": {
+        "Localisation": "48° 47′ 47.52″ N, 2° 26′ 57.82″ E",
+        "Named after": "CréteilQ63109531",
+        "Location": "Créteil, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 September 1973",
+        "Connecting line": "Paris Métro Line 8Paris Métro Line 15 (building or structure under construction)",
+        "Adjacent station": "Maisons-Alfort – Les Juilliottes (Balard, Paris Métro Line 8)Créteil – Université (Pointe du Lac, Paris Métro Line 8)Le Vert de Maisons (Pont de Sèvres, Paris Métro Line 15, building or structure under construction)Saint-Maur - Créteil (Noisy - Champs, Paris Métro Line 15, building or structure under construction)"
+    },
+    "Créteil - Université (Paris Metro)": {
+        "Localisation": "48° 47′ 23.42″ N, 2° 27′ 02.22″ E",
+        "Named after": "CréteilParis 12 University",
+        "Location": "Créteil, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "10 September 1974",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Créteil - L'Échat (Balard, Paris Métro Line 8)Créteil – Préfecture (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Crimée (Paris Metro)": {
+        "Localisation": "48° 53′ 29″ N, 2° 22′ 39″ E"
+    },
+    "La Courneuve - Six Routes (Paris Metro)": {
+        "Localisation": "48° 55′ 45.44″ N, 2° 23′ 04.19″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16Paris Métro Line 17",
+        "Adjacent station": "Le Bourget RER (Noisy - Champs, Paris Métro Line 16)Saint-Denis Pleyel (Saint-Denis Pleyel, Paris Métro Line 16)Le Bourget RER (Le Mesnil-Amelot, Paris Métro Line 17)Saint-Denis Pleyel (Saint-Denis Pleyel, Paris Métro Line 17)",
+        "Interchange station": "La Courneuve - Six Routes (tramway d'Île-de-France) (building or structure under construction)"
+    },
+    "Créteil - Préfecture (Paris Metro)": {
+        "Localisation": "48° 46′ 47.18″ N, 2° 27′ 33.54″ E",
+        "Named after": "CréteilPrefecture hotel of Val-de-Marne",
+        "Location": "Créteil, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1974",
+        "Date of official opening": "10 September 1974",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Créteil – Université (Balard, Paris Métro Line 8)Pointe du Lac (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Croix de Chavaux (Paris Metro)": {
+        "Localisation": "48° 51′ 29″ N, 2° 26′ 08.75″ E",
+        "Location": "Montreuil, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "14 October 1937",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Robespierre (Pont de Sèvres, Paris Métro Line 9)Mairie de Montreuil (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Croix-Rouge (Paris Metro)": {
+        "Localisation": "48° 51′ 06.82″ N, 2° 19′ 46.21″ E",
+        "Named after": "place Michel-Debré",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Inception": "30 December 1923",
+        "Date of official opening": "30 December 1923",
+        "Date of official closure": "2 September 1939 (World War II)",
+        "Connecting line": "Paris Métro Line 10"
+    },
+    "Danube (Paris Metro)": {
+        "Localisation": "48° 52′ 55.2″ N, 2° 23′ 35.04″ E",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "18 January 1911",
+        "Connecting line": "Paris Métro Line 7bis (Pré Saint-Gervais, Botzaris)",
+        "Adjacent station": "Botzaris (Louis Blanc, Paris Métro Line 7bis)Pré Saint-Gervais (Paris Métro Line 7bis)",
+        "Different from": "Danube"
+    },
+    "Daumesnil (Paris Metro)": {
+        "Localisation": "48° 50′ 22.6″ N, 2° 23′ 44.9″ E"
+    },
+    "Denfert-Rochereau (Paris Metro)": {},
+    "La Défense (Paris Metro)": {
+        "Localisation": "48° 53′ 30.96″ N, 2° 14′ 16.38″ E",
+        "Named after": "La Défense",
+        "Location": "Puteaux, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "April 1959",
+        "Date of official opening": "1 April 1992",
+        "Connecting line": "Paris Métro Line 1 (Esplanade de La Défense)Paris Métro Line 15 (building or structure under construction, 2031–)",
+        "Adjacent station": "Esplanade de La Défense (Château de Vincennes, Paris Métro Line 1)Bécon-les-Bruyères (Saint-Denis Pleyel, Paris Métro Line 15, building or structure under construction)Nanterre La Folie (Pont de Sèvres, Paris Métro Line 15, building or structure under construction)",
+        "Interchange station": "La DéfenseLa Défense (tramway d'Île-de-France)",
+        "Different from": "La DéfenseLa Défense (tramway d'Île-de-France)"
+    },
+    "La Dhuys (Paris Metro)": {
+        "Localisation": "48° 52′ 38.83″ N, 2° 27′ 54.43″ E",
+        "Named after": "Aqueduc de la Dhuis",
+        "Location": "MontreuilRosny-sous-BoisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 June 2024",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Coteaux Beauclair (Rosny-Bois-Perrier, Paris Métro Line 11)Montreuil - Hôpital (Châtelet, Paris Métro Line 11)"
+    },
+    "Drancy - Bobigny (Paris Metro)": {
+        "Localisation": "48° 54′ 57.29″ N, 2° 25′ 34.91″ E",
+        "Location": "Drancy, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Bobigny – Pablo Picasso (Champigny Centre, Paris Métro Line 15)Fort d'Aubervilliers (Saint-Denis Pleyel, Paris Métro Line 15)",
+        "Interchange station": "Q85978589 (proposed building or structure)"
+    },
+    "Dugommier (Paris Metro)": {
+        "Localisation": "48° 50′ 20.58″ N, 2° 23′ 23.87″ E",
+        "Named after": "rue Dugommier",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 March 1909",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Bercy (Charles de Gaulle - Étoile, Paris Métro Line 6)Daumesnil (Nation, Paris Métro Line 6)"
+    },
+    "École Militaire (Paris Metro)": {
+        "Localisation": "48° 51′ 18″ N, 2° 18′ 24.01″ E",
+        "Named after": "place de l'École-Militaire",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 July 1913",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "La Motte-Picquet – Grenelle (Balard, Paris Métro Line 8)La Tour-Maubourg (Pointe du Lac, Paris Métro Line 8)",
+        "Different from": "École militaire "
+    },
+    "Duroc (Paris Metro)": {
+        "Localisation": "48° 50′ 49″ N, 2° 18′ 59″ E",
+        "Named after": "rue Duroc",
+        "Location": "6th arrondissement of Paris7th arrondissement of Paris15th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 December 1923",
+        "Connecting line": "Paris Métro Line 10Paris Métro Line 13",
+        "Adjacent station": "Ségur (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Vaneau (Gare d'Austerlitz, Paris Métro Line 10)Saint-François-Xavier (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Montparnasse – Bienvenüe (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Dupleix (Paris Metro)": {
+        "Localisation": "48° 51′ 01.41″ N, 2° 17′ 37″ E",
+        "Named after": "rue Dupleix",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Bir-Hakeim (Charles de Gaulle - Étoile, Paris Métro Line 6)La Motte-Picquet – Grenelle (Nation, Paris Métro Line 6)"
+    },
+    "École vétérinaire de Maisons-Alfort (Paris Metro)": {
+        "Localisation": "48° 48′ 54″ N, 2° 25′ 18.01″ E",
+        "Named after": "École nationale vétérinaire d'Alfort",
+        "Location": "Maisons-Alfort, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "19 September 1970",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Charenton – Écoles (Balard, Paris Métro Line 8)Maisons-Alfort – Stade (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Edgar Quinet (Paris Metro)": {
+        "Localisation": "48° 50′ 25″ N, 2° 19′ 36″ E"
+    },
+    "Église d'Auteuil (Paris Metro)": {
+        "Localisation": "48° 50′ 50.59″ N, 2° 16′ 06.94″ E"
+    },
+    "Église de Pantin (Paris Metro)": {
+        "Localisation": "48° 53′ 37″ N, 2° 24′ 46.01″ E",
+        "Named after": "Église Saint-Germain de Pantin",
+        "Location": "Pantin, arrondissement of Bobigny, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1942",
+        "Date of official opening": "12 October 1942",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Hoche (Place d'Italie, Paris Métro Line 5)Bobigny – Pantin – Raymond Queneau (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Étienne Marcel (Paris Metro)": {
+        "Localisation": "48° 51′ 48.6″ N, 2° 20′ 55.2″ E"
+    },
+    "Europe (Paris Metro)": {
+        "Localisation": "48° 52′ 44″ N, 2° 19′ 21″ E"
+    },
+    "Esplanade de La Défense (Paris Metro)": {
+        "Localisation": "48° 53′ 16.24″ N, 2° 15′ 01.59″ E",
+        "Location": "Puteaux, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 April 1992",
+        "Connecting line": "Paris Métro Line 1 (Pont de Neuilly, La Défense)",
+        "Adjacent station": "La Défense (La Défense, Paris Métro Line 1)Pont de Neuilly (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Falguière (Paris Metro)": {
+        "Localisation": "48° 50′ 40″ N, 2° 19′ 05″ E",
+        "Named after": "rue Falguière",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1910",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Montparnasse – Bienvenüe (Mairie d'Aubervilliers, Paris Métro Line 12)Pasteur (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Faidherbe - Chaligny (Paris Metro)": {
+        "Localisation": "48° 51′ 01.17″ N, 2° 23′ 03.09″ E",
+        "Named after": "rue Faidherberue Chaligny",
+        "Location": "11th arrondissement of Paris12th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Ledru-Rollin (Balard, Paris Métro Line 8)Reuilly - Diderot (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Exelmans (Paris Metro)": {
+        "Localisation": "48° 50′ 34.59″ N, 2° 15′ 36.13″ E",
+        "Named after": "boulevard Exelmans",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "8 November 1922",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Porte de Saint-Cloud (Pont de Sèvres, Paris Métro Line 9)Michel-Ange – Molitor (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Filles du Calvaire (Paris Metro)": {
+        "Localisation": "48° 51′ 50.66″ N, 2° 21′ 58.04″ E",
+        "Named after": "Boulevard des Filles-du-Calvaire",
+        "Location": "3rd arrondissement of Paris11th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "République (Balard, Paris Métro Line 8)Saint-Sébastien – Froissart (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Félix Faure (Paris Metro)": {
+        "Localisation": "48° 50′ 33.57″ N, 2° 17′ 30.26″ E",
+        "Named after": "avenue Félix-Faure",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1937",
+        "Date of official opening": "27 July 1937",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Boucicaut (Balard, Paris Métro Line 8)Commerce (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Fort d'Aubervilliers (Paris Metro)": {
+        "Localisation": "48° 54′ 51″ N, 2° 24′ 13″ E"
+    },
+    "Franklin D. Roosevelt (Paris Metro)": {
+        "Localisation": "48° 52′ 09.5″ N, 2° 18′ 29.91″ E",
+        "Named after": "avenue Franklin-D.-Roosevelt (1946–)",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Date of official opening": "19 July 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1Paris Métro Line 9 (1923–)",
+        "Adjacent station": "George V (La Défense, Paris Métro Line 1)Champs-Élysées - Clemenceau (Château de Vincennes, Paris Métro Line 1)Alma - Marceau (Pont de Sèvres, Paris Métro Line 9)Saint-Philippe du Roule (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "La Fourche (Paris Metro)": {
+        "Localisation": "48° 53′ 13″ N, 2° 19′ 33″ E",
+        "Location": "17th arrondissement of Paris18th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "26 February 1911",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Brochant (Les Courtilles, Paris Métro Line 13)Guy Môquet (Saint-Denis – Université, Paris Métro Line 13)Place de Clichy (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Gabriel Péri (Paris Metro)": {
+        "Localisation": "48° 54′ 59″ N, 2° 17′ 39.01″ E",
+        "Named after": "Gabriel Péri",
+        "Location": "Asnières-sur-SeineGennevilliersFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1980",
+        "Date of official opening": "3 May 1980",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Les Agnettes (Les Courtilles, Paris Métro Line 13)Mairie de Clichy (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Front populaire (Paris Metro)": {
+        "Localisation": "48° 54′ 25″ N, 2° 21′ 57″ E"
+    },
+    "Gaîté (Paris Metro)": {
+        "Localisation": "48° 50′ 20″ N, 2° 19′ 21″ E",
+        "Named after": "rue de la GaîtéJosephine Baker",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "21 January 1937",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Montparnasse – Bienvenüe (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Pernety (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Gallieni (Paris Metro)": {
+        "Localisation": "48° 51′ 54″ N, 2° 24′ 59.98″ E",
+        "Location": "Bagnolet, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "2 April 1971",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Porte de Bagnolet (Pont de Levallois – Bécon, Paris Métro Line 3)",
+        "Different from": "Joseph Gallieni"
+    },
+    "Gare de l'Est (Paris Metro)": {
+        "Localisation": "48° 52′ 33.82″ N, 2° 21′ 28.51″ E",
+        "Location": "10th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "15 November 1907",
+        "Connecting line": "Paris Métro Line 4 (1908–)Paris Métro Line 5Paris Métro Line 7 (1910–)",
+        "Adjacent station": "Gare du Nord (Porte de Clignancourt, Paris Métro Line 4)Château d'Eau (Bagneux–Lucie Aubrac, Paris Métro Line 4)Jacques Bonsergent (Place d'Italie, Paris Métro Line 5)Gare du Nord (Bobigny – Pablo Picasso, Paris Métro Line 5)Poissonnière (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Château-Landon (La Courneuve - 8 Mai 1945, Paris Métro Line 7)",
+        "Interchange station": "Gare de Paris-Est",
+        "Different from": "East Chengdu Railway StationEast Railway StationHohhot East Railway Station"
+    },
+    "Gambetta (Paris Metro)": {},
+    "Gare de Lyon (Paris Metro)": {},
+    "Gare d'Austerlitz (Paris Metro)": {
+        "Localisation": "48° 50′ 33″ N, 2° 21′ 52.99″ E",
+        "Named after": "Gare d'Austerlitz",
+        "Location": "5th arrondissement of Paris13th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "2 June 1906",
+        "Connecting line": "Paris Métro Line 5Paris Métro Line 10 (1939–)",
+        "Adjacent station": "Saint-Marcel (Place d'Italie, Paris Métro Line 5)Quai de la Rapée (Bobigny – Pablo Picasso, Paris Métro Line 5)Jussieu (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Chevaleret (Ivry-Gambetta, Paris Métro Line 10, proposed building or structure)",
+        "Interchange station": "Gare d'Austerlitz"
+    },
+    "Gare du Nord USFRT (Paris Metro)": {
+        "Localisation": "48° 52′ 45.43″ N, 2° 21′ 15.72″ E",
+        "Location": "10th arrondissement of Paris, Paris, Grand Paris, France",
+        "Inception": "15 November 1907",
+        "Date of official opening": "15 November 1907",
+        "Date of official closure": "12 October 1942",
+        "Interchange station": "Gare de Paris-Nord"
+    },
+    "Glacière (Paris Metro)": {
+        "Localisation": "48° 49′ 52.07″ N, 2° 20′ 36.53″ E",
+        "Named after": "rue de la Glacière",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Saint-Jacques (Charles de Gaulle - Étoile, Paris Métro Line 6)Corvisart (Nation, Paris Métro Line 6)"
+    },
+    "Garibaldi (Paris Metro)": {
+        "Localisation": "48° 54′ 23″ N, 2° 19′ 55″ E",
+        "Named after": "Rue Garibaldi",
+        "Location": "Saint-Ouen-sur-Seine, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 June 1952",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Mairie de Saint-Ouen (Saint-Denis – Université, Paris Métro Line 13)Porte de Saint-Ouen (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Different from": "GaribaldiGaribaldi"
+    },
+    "Gare du Nord (Paris Metro)": {},
+    "George V (Paris Metro)": {
+        "Localisation": "48° 52′ 19.14″ N, 2° 18′ 01.67″ E",
+        "Named after": "avenue George-V",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Inception": "1900",
+        "Date of official opening": "13 August 1900",
+        "Connecting line": "Paris Métro Line 1 (Franklin D. Roosevelt, Charles de Gaulle - Étoile)",
+        "Adjacent station": "Charles de Gaulle - Étoile (La Défense, Paris Métro Line 1)Franklin D. Roosevelt (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Les Gobelins (Paris Metro)": {
+        "Localisation": "48° 50′ 08.99″ N, 2° 21′ 09″ E",
+        "Named after": "avenue des Gobelins",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1930",
+        "Date of official opening": "15 February 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Place d'Italie (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Censier – Daubenton (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Gonesse (Paris Metro)": {
+        "Localisation": "48° 58′ 42.29″ N, 2° 28′ 33″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 17",
+        "Adjacent station": "Parc des Expositions (Le Mesnil-Amelot, Paris Métro Line 17)Le Bourget - Aéroport (Saint-Denis Pleyel, Paris Métro Line 17)"
+    },
+    "Goncourt (Paris Metro)": {
+        "Localisation": "48° 52′ 11.6″ N, 2° 22′ 15.89″ E",
+        "Location": "10th arrondissement of Paris11th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1935",
+        "Date of official opening": "28 April 1935",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "République (Châtelet, Paris Métro Line 11)Belleville (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Les Grésillons (Paris Metro)": {
+        "Localisation": "48° 55′ 11.17″ N, 2° 18′ 46.25″ E",
+        "Transport network": "Paris Métro",
+        "Adjacent building": "Les Grésillons",
+        "Connecting line": "Paris Métro Line 15Paris Métro Line 17",
+        "Adjacent station": "Saint-Denis Pleyel (Saint-Denis Pleyel, Paris Métro Line 15)Les Agnettes (Pont de Sèvres, Paris Métro Line 15)"
+    },
+    "Grands Boulevards (Paris Metro)": {
+        "Localisation": "48° 52′ 17.15″ N, 2° 20′ 36.56″ E",
+        "Named after": "Grands Boulevards",
+        "Location": "2nd arrondissement of Paris9th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1931",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8Paris Métro Line 9",
+        "Adjacent station": "Richelieu – Drouot (Balard, Paris Métro Line 8)Bonne Nouvelle (Pointe du Lac, Paris Métro Line 8)Richelieu – Drouot (Pont de Sèvres, Paris Métro Line 9)Bonne Nouvelle (Mairie de Montreuil, Paris Métro Line 9)",
+        "Different from": "Grand Boulevard station"
+    },
+    "Havre - Caumartin (Paris Metro)": {
+        "Localisation": "48° 52′ 25.25″ N, 2° 19′ 38.35″ E",
+        "Named after": "rue du Havrerue de Caumartin",
+        "Location": "9th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "19 October 1904",
+        "Connecting line": "Paris Métro Line 3Paris Métro Line 9",
+        "Adjacent station": "Saint-Lazare (Pont de Levallois – Bécon, Paris Métro Line 3)Opéra (Gallieni, Paris Métro Line 3)Saint-Augustin (Pont de Sèvres, Paris Métro Line 9)Chaussée d'Antin – La Fayette (Mairie de Montreuil, Paris Métro Line 9)",
+        "Interchange station": "AuberHaussmann – Saint-LazareQ56707924"
+    },
+    "Les Halles (Paris Metro)": {
+        "Localisation": "48° 51′ 43.9″ N, 2° 20′ 45.01″ E",
+        "Named after": "Les Halles",
+        "Location": "Q112334242, Q112334376",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 April 1908",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Étienne Marcel (Porte de Clignancourt, Paris Métro Line 4)Châtelet (Bagneux–Lucie Aubrac, Paris Métro Line 4)",
+        "Interchange station": "Gare de Châtelet – Les Halles",
+        "Different from": "Les Halles "
+    },
+    "Guy Môquet (Paris Metro)": {
+        "Localisation": "48° 53′ 32″ N, 2° 19′ 38″ E",
+        "Named after": "rue Guy-Môquet",
+        "Location": "17th arrondissement of Paris18th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "26 February 1911",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Porte de Saint-Ouen (Saint-Denis – Université, Paris Métro Line 13)La Fourche (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Iéna (Paris Metro)": {
+        "Localisation": "48° 51′ 52.81″ N, 2° 17′ 37.61″ E",
+        "Named after": "avenue d'Iéna",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1923",
+        "Date of official opening": "27 May 1923",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Trocadéro (Pont de Sèvres, Paris Métro Line 9)Alma - Marceau (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Haxo (Paris Metro)": {
+        "Localisation": "48° 52′ 43″ N, 2° 24′ 06″ E",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1921",
+        "Connecting line": "Paris Métro Line 3bis"
+    },
+    "Hoche (Paris Metro)": {
+        "Localisation": "48° 53′ 29″ N, 2° 24′ 11.02″ E",
+        "Named after": "rue Hoche",
+        "Location": "Pantin, arrondissement of Bobigny, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1942",
+        "Date of official opening": "12 October 1942",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Porte de Pantin (Place d'Italie, Paris Métro Line 5)Église de Pantin (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Hôtel de Ville (Paris Metro)": {
+        "Localisation": "48° 51′ 27.32″ N, 2° 21′ 05.71″ E",
+        "Location": "4th arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Inception": "1900",
+        "Date of official opening": "19 July 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1 (Saint-Paul (Le Marais), Châtelet)Paris Métro Line 11 (Châtelet, Arts et Métiers)",
+        "Adjacent station": "Châtelet (La Défense, Paris Métro Line 1)Saint-Paul (Le Marais) (Château de Vincennes, Paris Métro Line 1)Châtelet (Châtelet, Paris Métro Line 11)Rambuteau (Rosny-Bois-Perrier, Paris Métro Line 11)",
+        "Different from": "Hôtel de Ville, ParisCity Hall Station"
+    },
+    "Invalides (Paris Metro)": {
+        "Localisation": "48° 51′ 38.99″ N, 2° 18′ 52.99″ E",
+        "Named after": "Les Invalides",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1913",
+        "Date of official opening": "24 December 1913",
+        "Connecting line": "Paris Métro Line 8Paris Métro Line 13RER C",
+        "Adjacent station": "La Tour-Maubourg (Balard, Paris Métro Line 8)Concorde (Pointe du Lac, Paris Métro Line 8)Varenne (Châtillon - Montrouge, Paris Métro Line 13)Champs-Élysées - Clemenceau (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Champs-Élysées - Clemenceau (La Défense, Château de Vincennes, Paris Métro Line 1)",
+        "Interchange station": "Invalides",
+        "Different from": "Invalides"
+    },
+    "Jasmin (Paris Metro)": {
+        "Localisation": "48° 51′ 06.01″ N, 2° 16′ 04.01″ E",
+        "Named after": "rue JasminJacques Jasmin",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1922",
+        "Date of official opening": "8 November 1922",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Michel-Ange – Auteuil (Pont de Sèvres, Paris Métro Line 9)Ranelagh (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Jacques Bonsergent (Paris Metro)": {
+        "Localisation": "48° 52′ 16″ N, 2° 21′ 38.02″ E",
+        "Named after": "place Jacques-Bonsergent (1946–)",
+        "Location": "10th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "17 December 1906",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "République (Place d'Italie, Paris Métro Line 5)Gare de l'Est (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Jaurès (Paris Metro)": {
+        "Localisation": "48° 52′ 57″ N, 2° 22′ 13″ E"
+    },
+    "Issy (Paris Metro)": {
+        "Localisation": "48° 49′ 15.96″ N, 2° 15′ 35.78″ E",
+        "Location": "Issy-les-Moulineaux, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Pont de Sèvres (Pont de Sèvres, Paris Métro Line 15)Fort d'Issy - Vanves - Clamart (Noisy - Champs, Paris Métro Line 15)",
+        "Interchange station": "Issy"
+    },
+    "Javel - André Citroën (Paris Metro)": {
+        "Localisation": "48° 50′ 46″ N, 2° 16′ 43″ E",
+        "Named after": "Javelquai André-Citroën",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 September 1913",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Église d'Auteuil (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Charles Michels (Gare d'Austerlitz, Paris Métro Line 10)Mirabeau (Paris Métro Line 10)",
+        "Interchange station": "Gare de Javel"
+    },
+    "Jules Joffrin (Paris Metro)": {
+        "Localisation": "48° 53′ 33″ N, 2° 20′ 41″ E",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1912–1929)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1912–1929)",
+        "Date of official opening": "31 October 1912",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Marcadet – Poissonniers (Mairie d'Aubervilliers, Paris Métro Line 12)Lamarck – Caulaincourt (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Jourdain (Paris Metro)": {
+        "Localisation": "48° 52′ 30″ N, 2° 23′ 26.99″ E",
+        "Named after": "rue du Jourdain",
+        "Location": "19th arrondissement of Paris20th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "28 April 1935",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Pyrénées (Châtelet, Paris Métro Line 11)Place des Fêtes (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Jussieu (Paris Metro)": {
+        "Localisation": "48° 50′ 45.79″ N, 2° 21′ 20.66″ E",
+        "Named after": "place Jussieu",
+        "Location": "5th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "26 April 1931",
+        "Connecting line": "Paris Métro Line 7Paris Métro Line 10",
+        "Adjacent station": "Place Monge (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Sully – Morland (La Courneuve - 8 Mai 1945, Paris Métro Line 7)Cardinal Lemoine (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Gare d'Austerlitz (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Kléber (Paris Metro)": {
+        "Localisation": "48° 52′ 15″ N, 2° 17′ 35″ E"
+    },
+    "Hôpital Bicêtre (Paris Metro)": {
+        "Localisation": "48° 48′ 35″ N, 2° 20′ 59″ E",
+        "Named after": "Bicêtre Hospital",
+        "Location": "Le Kremlin-Bicêtre, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Dominique Perrault",
+        "Date of official opening": "24 June 2024",
+        "Connecting line": "Paris Métro Line 14",
+        "Adjacent station": "Maison Blanche (Saint-Denis Pleyel, Paris Métro Line 14)Villejuif - Gustave Roussy (Aéroport d'Orly, Paris Métro Line 14)"
+    },
+    "Le Kremlin-Bicêtre (Paris Metro)": {
+        "Localisation": "48° 48′ 36″ N, 2° 21′ 43.2″ E",
+        "Named after": "Le Kremlin-Bicêtre",
+        "Location": "Le Kremlin-Bicêtre, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1982",
+        "Date of official opening": "10 December 1982",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Villejuif – Léo Lagrange (Villejuif - Louis Aragon, Paris Métro Line 7)Maison Blanche (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Laumière (Paris Metro)": {
+        "Localisation": "48° 53′ 06″ N, 2° 22′ 43″ E",
+        "Named after": "avenue de Laumière",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1942",
+        "Date of official opening": "12 October 1942",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Jaurès (Place d'Italie, Paris Métro Line 5)Ourcq (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Ledru-Rollin (Paris Metro)": {
+        "Localisation": "48° 51′ 04.8″ N, 2° 22′ 34″ E",
+        "Named after": "avenue Ledru-Rollin",
+        "Location": "11th arrondissement of Paris12th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1931",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Bastille (Balard, Paris Métro Line 8)Faidherbe – Chaligny (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Lamarck - Caulaincourt (Paris Metro)": {
+        "Localisation": "48° 53′ 23″ N, 2° 20′ 19″ E",
+        "Named after": "rue Lamarckrue Caulaincourt",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1912–1929)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1912–1929)",
+        "Date of official opening": "31 October 1912",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Jules Joffrin (Mairie d'Aubervilliers, Paris Métro Line 12)Abbesses (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Liberté (Paris Metro)": {
+        "Localisation": "48° 49′ 32.99″ N, 2° 24′ 24.98″ E",
+        "Named after": "avenue de la Liberté",
+        "Location": "Charenton-le-Pont, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1942",
+        "Date of official opening": "5 October 1942",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Porte de Charenton (Balard, Paris Métro Line 8)Charenton – Écoles (Pointe du Lac, Paris Métro Line 8)",
+        "Different from": "Liberté "
+    },
+    "Liège (Paris Metro)": {
+        "Localisation": "48° 52′ 47″ N, 2° 19′ 37″ E",
+        "Named after": "Battle of Liège",
+        "Location": "8th arrondissement of Paris9th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1911",
+        "Date of official opening": "26 February 1911",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Place de Clichy (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Saint-Lazare (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Louis Blanc (Paris Metro)": {
+        "Localisation": "48° 52′ 52″ N, 2° 21′ 53″ E"
+    },
+    "Lourmel (Paris Metro)": {
+        "Localisation": "48° 50′ 19″ N, 2° 16′ 54.01″ E",
+        "Named after": "rue de Lourmel",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 July 1937",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Balard (Balard, Paris Métro Line 8)Boucicaut (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Mabillon (Paris Metro)": {
+        "Localisation": "48° 51′ 10.01″ N, 2° 20′ 07.01″ E",
+        "Named after": "rue Mabillon",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1925",
+        "Date of official opening": "10 March 1925",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Sèvres–Babylone (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Odéon (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Louise Michel (Paris Metro)": {
+        "Localisation": "48° 53′ 19.49″ N, 2° 17′ 16.23″ E",
+        "Named after": "Louise Michel (1946–)",
+        "Location": "Levallois-Perret, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 September 1937",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Anatole France (Pont de Levallois – Bécon, Paris Métro Line 3)Porte de Champerret (Gallieni, Paris Métro Line 3)",
+        "Different from": "Louise Michel"
+    },
+    "Louvre - Rivoli (Paris Metro)": {
+        "Localisation": "48° 51′ 37.9″ N, 2° 20′ 27.6″ E"
+    },
+    "Madeleine (Paris Metro)": {
+        "Localisation": "48° 52′ 11″ N, 2° 19′ 28″ E",
+        "Named after": "place de la Madeleine",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Heritage designation": "Remarkable Contemporary Architecture (Paris Métro Line 14)",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 8 (1913–)Paris Métro Line 12Paris Métro Line 14 (1998–)",
+        "Adjacent station": "Concorde (Balard, Paris Métro Line 8)Opéra (Pointe du Lac, Paris Métro Line 8)Saint-Lazare (Mairie d'Aubervilliers, Paris Métro Line 12)Concorde (Mairie d'Issy, Paris Métro Line 12)Saint-Lazare (Saint-Denis Pleyel, Paris Métro Line 14)Pyramides (Aéroport d'Orly, Paris Métro Line 14)"
+    },
+    "Mairie d'Aubervilliers (Paris Metro)": {
+        "Localisation": "48° 55′ N, 2° 23′ E"
+    },
+    "Mairie d'Issy (Paris Metro)": {
+        "Localisation": "48° 49′ 27″ N, 2° 16′ 24″ E",
+        "Named after": "Issy-les-Moulineauxtown hall of Issy-les-Moulineaux",
+        "Location": "Issy-les-Moulineaux, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1934",
+        "Date of official opening": "24 March 1934",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Corentin Celton (Mairie d'Aubervilliers, Paris Métro Line 12)"
+    },
+    "Mairie de Clichy (Paris Metro)": {
+        "Localisation": "48° 54′ 14″ N, 2° 18′ 19.01″ E",
+        "Named after": "town hall of Clichy",
+        "Location": "Clichy, canton of Levallois-Perret-Nord",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "9 May 1980",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Gabriel Péri (Les Courtilles, Paris Métro Line 13)Porte de Clichy (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Mairie d'Ivry (Paris Metro)": {
+        "Localisation": "48° 48′ 39.56″ N, 2° 23′ 02.29″ E",
+        "Named after": "town hall of Ivry-sur-Seine",
+        "Location": "Ivry-sur-Seine, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 May 1946",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Pierre et Marie Curie (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Mairie de Montreuil (Paris Metro)": {
+        "Localisation": "48° 51′ 43.99″ N, 2° 26′ 30.98″ E",
+        "Named after": "Montreuil town hall",
+        "Location": "Montreuil, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "14 October 1937",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Croix de Chavaux (Pont de Sèvres, Paris Métro Line 9)Aristide Briand (building or structure under construction)"
+    },
+    "Mairie de Montrouge (Paris Metro)": {
+        "Localisation": "48° 49′ 05″ N, 2° 19′ 10.3″ E"
+    },
+    "Mairie de Saint-Ouen (Paris Metro)": {
+        "Localisation": "48° 54′ 42.01″ N, 2° 20′ 01″ E",
+        "Named after": "town hall of Saint-Ouen-sur-Seine",
+        "Location": "Saint-Ouen-sur-Seine, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "30 June 1952",
+        "Date of official opening": "30 June 1952",
+        "Connecting line": "Paris Métro Line 13 (1952–)Paris Métro Line 14 (2020–)",
+        "Adjacent station": "Carrefour Pleyel (Saint-Denis – Université, Paris Métro Line 13)Garibaldi metro station (Châtillon - Montrouge, Paris Métro Line 13)Saint-Ouen (Aéroport d'Orly, Paris Métro Line 14, 2020–)Saint-Denis Pleyel (Saint-Denis Pleyel, Paris Métro Line 14, 2024–)"
+    },
+    "Mairie des Lilas (Paris Metro)": {
+        "Localisation": "48° 52′ 46.99″ N, 2° 24′ 58″ E",
+        "Named after": "town hall of Les Lilas",
+        "Location": "Les Lilas, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1937",
+        "Date of official opening": "17 February 1937",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Porte des Lilas (Châtelet, Paris Métro Line 11)Serge Gainsbourg (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Mairie de Vitry-sur-Seine (Paris Metro)": {
+        "Localisation": "48° 47′ 23.72″ N, 2° 23′ 13.99″ E",
+        "Location": "Vitry-sur-Seine, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Villejuif - Louis Aragon (Pont de Sèvres, Paris Métro Line 15)Les Ardoines (Noisy - Champs, Paris Métro Line 15)",
+        "Interchange station": "Mairie de Vitry-sur-Seine"
+    },
+    "Maison Blanche (Paris Metro)": {},
+    "Maisons-Alfort - Les Juilliottes (Paris Metro)": {
+        "Localisation": "48° 48′ 09″ N, 2° 26′ 47″ E",
+        "Named after": "Maisons-Alfort",
+        "Location": "Maisons-Alfort, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 April 1972",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Maisons-Alfort – Stade (Balard, Paris Métro Line 8)Créteil - L'Échat (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Maisons-Alfort - Stade (Paris Metro)": {
+        "Localisation": "48° 48′ 31″ N, 2° 26′ 08.99″ E",
+        "Named after": "Maisons-Alfort",
+        "Location": "Maisons-Alfort, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "19 September 1970",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "École Vétérinaire de Maisons-Alfort (Balard, Paris Métro Line 8)Maisons-Alfort – Les Juilliottes (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Malesherbes (Paris Metro)": {
+        "Localisation": "48° 52′ 58.92″ N, 2° 18′ 32.03″ E",
+        "Named after": "boulevard Malesherbes",
+        "Location": "17th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "23 May 1910",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Wagram (Pont de Levallois – Bécon, Paris Métro Line 3)Villiers (Gallieni, Paris Métro Line 3)"
+    },
+    "Malakoff - Plateau de Vanves (Paris Metro)": {
+        "Localisation": "48° 49′ 22.01″ N, 2° 17′ 53.99″ E",
+        "Named after": "Malakoffplateau de Vanves",
+        "Location": "Malakoff, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1976",
+        "Date of official opening": "9 November 1976",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Porte de Vanves (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Malakoff – Rue Étienne Dolet (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Malakoff - Rue Étienne-Dolet (Paris Metro)": {
+        "Localisation": "48° 48′ 52.99″ N, 2° 17′ 49.99″ E",
+        "Location": "Malakoff, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "9 November 1976",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Malakoff – Plateau de Vanves (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Châtillon - Montrouge (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Maraîchers (Paris Metro)": {
+        "Localisation": "48° 51′ 10.01″ N, 2° 24′ 24.01″ E",
+        "Named after": "vegetable grower",
+        "Location": "20th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1933",
+        "Date of official opening": "10 December 1933",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Buzenval (Pont de Sèvres, Paris Métro Line 9)Porte de Montreuil (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Marcadet - Poissonniers (Paris Metro)": {
+        "Localisation": "48° 53′ 27.16″ N, 2° 20′ 59.41″ E",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "21 April 1908 (Paris Métro Line 4)",
+        "Connecting line": "Paris Métro Line 4 (1908–)Paris Métro Line 12 (1916–)",
+        "Adjacent station": "Simplon (Porte de Clignancourt, Paris Métro Line 4)Château Rouge (Bagneux–Lucie Aubrac, Paris Métro Line 4)Marx Dormoy (Mairie d'Aubervilliers, Paris Métro Line 12)Jules Joffrin (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Martin Nadaud (Paris Metro)": {},
+    "Marcel Sembat (Paris Metro)": {
+        "Localisation": "48° 50′ 02.11″ N, 2° 14′ 41.06″ E",
+        "Named after": "place Marcel-Sembat",
+        "Location": "Boulogne-Billancourt, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "3 February 1934",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Billancourt (Pont de Sèvres, Paris Métro Line 9)Porte de Saint-Cloud (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Massy - Palaiseau (Paris Metro)": {
+        "Localisation": "48° 43′ 30″ N, 2° 15′ 31″ E",
+        "Location": "Massy, Essonne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Polytechnique (Nanterre La Folie, Paris Métro Line 18)Massy Opéra (Aéroport d'Orly, Paris Métro Line 18)",
+        "Interchange station": "Gare de Massy-PalaiseauMassy - Palaiseau"
+    },
+    "Marx Dormoy (Paris Metro)": {
+        "Localisation": "48° 53′ 26″ N, 2° 21′ 36″ E",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1916–1929)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1916–1929)",
+        "Date of official opening": "23 August 1916",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Porte de la Chapelle (Mairie d'Aubervilliers, Paris Métro Line 12)Marcadet – Poissonniers (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Ménilmontant (Paris Metro)": {
+        "Localisation": "48° 51′ 58.4″ N, 2° 23′ 01.1″ E"
+    },
+    "Massy Opéra (Paris Metro)": {
+        "Localisation": "48° 43′ 54″ N, 2° 17′ 27″ E",
+        "Location": "Massy, Essonne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Area": "3,960 m²",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Massy - Palaiseau (Nanterre La Folie, Paris Métro Line 18)Antonypole - Wissous Centre (Aéroport d'Orly, Paris Métro Line 18)"
+    },
+    "Maubert - Mutualité (Paris Metro)": {
+        "Localisation": "48° 51′ 00.67″ N, 2° 20′ 53.19″ E",
+        "Named after": "place MaubertMaison de la Mutualité",
+        "Location": "5th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1930",
+        "Date of official opening": "15 February 1930",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Cluny – La Sorbonne (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Cardinal Lemoine (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Michel Bizot (Paris Metro)": {
+        "Localisation": "48° 50′ 13.45″ N, 2° 24′ 08.86″ E",
+        "Named after": "avenue du Général-Michel-Bizot",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Daumesnil (Balard, Paris Métro Line 8)Porte Dorée (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Michel-Ange - Auteuil (Paris Metro)": {
+        "Localisation": "48° 50′ 52.62″ N, 2° 15′ 50.87″ E",
+        "Named after": "rue Michel-Angerue d'Auteuil",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1913",
+        "Date of official opening": "30 September 1913",
+        "Connecting line": "Paris Métro Line 9Paris Métro Line 10",
+        "Adjacent station": "Michel-Ange – Molitor (Pont de Sèvres, Paris Métro Line 9)Jasmin (Mairie de Montreuil, Paris Métro Line 9)Porte d'Auteuil (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Église d'Auteuil (Paris Métro Line 10)"
+    },
+    "Mirabeau (Paris Metro)": {
+        "Localisation": "48° 50′ 50.6″ N, 2° 16′ 23.9″ E"
+    },
+    "Michel-Ange - Molitor (Paris Metro)": {
+        "Localisation": "48° 50′ 42.58″ N, 2° 15′ 42.06″ E",
+        "Named after": "rue Michel-Angerue Molitor",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 September 1913",
+        "Connecting line": "Paris Métro Line 9 (1922–)Paris Métro Line 10",
+        "Adjacent station": "Exelmans (Pont de Sèvres, Paris Métro Line 9)Michel-Ange – Auteuil (Mairie de Montreuil, Paris Métro Line 9)Chardon Lagache (Gare d'Austerlitz, Paris Métro Line 10)Boulogne – Jean Jaurès (Paris Métro Line 10)"
+    },
+    "Montgallet (Paris Metro)": {
+        "Localisation": "48° 50′ 39.16″ N, 2° 23′ 25.08″ E",
+        "Named after": "rue Montgallet",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Reuilly - Diderot (Balard, Paris Métro Line 8)Daumesnil (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Monceau (Paris Metro)": {},
+    "Miromesnil (Paris Metro)": {
+        "Localisation": "48° 52′ 25.32″ N, 2° 18′ 52.24″ E",
+        "Named after": "rue de Miromesnil",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 May 1923",
+        "Connecting line": "Paris Métro Line 9Paris Métro Line 13 (1973–)",
+        "Adjacent station": "Saint-Philippe du Roule (Pont de Sèvres, Paris Métro Line 9)Saint-Augustin (Mairie de Montreuil, Paris Métro Line 9)Saint-Lazare (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Champs-Élysées - Clemenceau (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Montparnasse - Bienvenüe (Paris Metro)": {
+        "Localisation": "48° 50′ 34.95″ N, 2° 19′ 21.49″ E",
+        "Named after": "Montparnasseplace Bienvenüe",
+        "Location": "6th arrondissement of Paris14th arrondissement of Paris15th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1906",
+        "Date of official opening": "24 April 1906 (Place d'Italie, Avenue de Maine, Paris Métro Line 2)",
+        "Adjacent building": "Montparnasse TowerMusée BourdelleMontparnasse CemeteryMusée de La Postejardin AtlantiqueGare MontparnasseFrench National School of Forestry",
+        "Connecting line": "Paris Métro Line 4 (1910–)Paris Métro Line 6 (1942–)Paris Métro Line 12 (1910–)Paris Métro Line 13 (1976–)",
+        "Adjacent station": "Saint-Placide (Porte de Clignancourt, Paris Métro Line 4)Vavin (Bagneux–Lucie Aubrac, Paris Métro Line 4)Pasteur (Charles de Gaulle - Étoile, Paris Métro Line 6)Edgar Quinet (Nation, Paris Métro Line 6)Notre-Dame-des-Champs (Mairie d'Aubervilliers, Paris Métro Line 12)Falguière (Mairie d'Issy, Paris Métro Line 12)Duroc (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Gaîté (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Interchange station": "Gare Montparnasse"
+    },
+    "Montreuil - Hôpital (Paris Metro)": {
+        "Localisation": "48° 52′ 41.88″ N, 2° 27′ 16.42″ E",
+        "Named after": "Centre Hospitalier Intercommunal André Grégoire Montreuil",
+        "Location": "MontreuilNoisy-le-SecFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 June 2024",
+        "Connecting line": "Paris Métro Line 11Paris Métro Line 9 (proposed building or structure)",
+        "Adjacent station": "Romainville - Carnot (Châtelet, Paris Métro Line 11)La Dhuys (Rosny-Bois-Perrier, Paris Métro Line 11)Aristide Briand (proposed building or structure, Paris Métro Line 9)"
+    },
+    "Mouton-Duvernet (Paris Metro)": {
+        "Localisation": "48° 49′ 52.29″ N, 2° 19′ 46.65″ E"
+    },
+    "La Muette (Paris Metro)": {
+        "Localisation": "48° 51′ 27.79″ N, 2° 16′ 25.39″ E",
+        "Named after": "Muette",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "8 November 1922",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Ranelagh (Pont de Sèvres, Paris Métro Line 9)Rue de la Pompe (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "La Motte-Picquet - Grenelle (Paris Metro)": {
+        "Localisation": "48° 50′ 56.33″ N, 2° 17′ 53.52″ E",
+        "Named after": "avenue de La Motte-PicquetBoulevard de Grenelle",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6Paris Métro Line 8Paris Métro Line 10",
+        "Adjacent station": "Dupleix (Charles de Gaulle - Étoile, Paris Métro Line 6)Cambronne (Nation, Paris Métro Line 6)Commerce (Balard, Paris Métro Line 8)École Militaire (Pointe du Lac, Paris Métro Line 8)Avenue Émile Zola (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Ségur (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Nanterre La Boule (Paris Metro)": {
+        "Localisation": "48° 53′ 15.6″ N, 2° 12′ 05.69″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Nanterre La Folie (Saint-Denis Pleyel, Paris Métro Line 15, Paris Métro Line 15)Rueil – Suresnes Mont-Valérien (Pont de Sèvres, Paris Métro Line 15, Paris Métro Line 15)",
+        "Interchange station": "Nanterre - La Boule (proposed building or structure)"
+    },
+    "Nogent - Le Perreux (Paris Metro)": {
+        "Localisation": "48° 50′ 17.52″ N, 2° 29′ 41.28″ E",
+        "Location": "Nogent-sur-MarneLe Perreux-sur-MarneFrance",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Champigny Centre (Champigny Centre, Paris Métro Line 15)Val de Fontenay (Saint-Denis Pleyel, Paris Métro Line 15)",
+        "Interchange station": "Nogent – Le Perreux (Paris RER) (proposed building or structure)"
+    },
+    "Nationale (Paris Metro)": {
+        "Localisation": "48° 49′ 59.02″ N, 2° 21′ 45″ E",
+        "Named after": "rue Nationale",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 March 1909",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Place d'Italie (Charles de Gaulle - Étoile, Paris Métro Line 6)Chevaleret (Nation, Paris Métro Line 6)",
+        "Different from": "NationNationale "
+    },
+    "Nanterre La Folie (Paris Metro)": {
+        "Localisation": "48° 53′ 53.2″ N, 2° 13′ 34.28″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 1Paris Métro Line 15Paris Métro Line 17Paris Métro Line 18",
+        "Adjacent station": "La Défense (Saint-Denis Pleyel, Paris Métro Line 15)Nanterre La Boule (Pont de Sèvres, Paris Métro Line 15)Rueil (Aéroport d'Orly, Paris Métro Line 18)"
+    },
+    "Noisy - Champs (Paris Metro)": {
+        "Localisation": "48° 50′ 34.44″ N, 2° 34′ 48″ E",
+        "Location": "Noisy-le-Grand, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Jean-Marie Duthilleul",
+        "Connecting line": "Paris Métro Line 15Paris Métro Line 16Paris Métro Line 11 (proposed building or structure)",
+        "Adjacent station": "Bry-Villiers-Champigny (Pont de Sèvres, Paris Métro Line 15)Chelles (Saint-Denis Pleyel, Paris Métro Line 16)Q65225628 (Châtelet, Paris Métro Line 11, proposed building or structure)",
+        "Interchange station": "Noisy - Champs (proposed building or structure)"
+    },
+    "Nation (Paris Metro)": {},
+    "Notre-Dame-de-Lorette (Paris Metro)": {
+        "Localisation": "48° 52′ 34″ N, 2° 20′ 19″ E",
+        "Named after": "Notre-Dame-de-Lorette (Paris)",
+        "Location": "9th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Saint-Georges (Mairie d'Aubervilliers, Paris Métro Line 12)Trinité – d'Estienne d'Orves (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Notre-Dame-des-Champs (Paris Metro)": {
+        "Localisation": "48° 50′ 40″ N, 2° 19′ 44″ E",
+        "Named after": "Église Notre-Dame des Champs",
+        "Location": "Quartier Notre-Dame-des-Champs, 6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Rennes (Mairie d'Aubervilliers, Paris Métro Line 12)Montparnasse – Bienvenüe (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Oberkampf (Paris Metro)": {
+        "Localisation": "48° 51′ 51.98″ N, 2° 22′ 08″ E",
+        "Named after": "rue Oberkampf",
+        "Location": "11th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1907",
+        "Date of official opening": "17 December 1906",
+        "Connecting line": "Paris Métro Line 5Paris Métro Line 9",
+        "Adjacent station": "Richard-Lenoir (Place d'Italie, Paris Métro Line 5)République (Bobigny – Pablo Picasso, Paris Métro Line 5)République (Pont de Sèvres, Paris Métro Line 9)Saint-Ambroise (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Odéon (Paris Metro)": {
+        "Localisation": "48° 51′ 08.1″ N, 2° 20′ 18.81″ E",
+        "Named after": "carrefour de l'Odéonrue de l'Odéon",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "9 January 1910",
+        "Connecting line": "Paris Métro Line 4Paris Métro Line 10 (1926–)",
+        "Adjacent station": "Saint-Michel (Porte de Clignancourt, Paris Métro Line 4)Saint-Germain-des-Prés (Bagneux–Lucie Aubrac, Paris Métro Line 4)Mabillon (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Cluny – La Sorbonne (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Olympiades (Paris Metro)": {
+        "Localisation": "48° 49′ 36.84″ N, 2° 21′ 58.43″ E",
+        "Named after": "Les Olympiades",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "26 June 2007",
+        "Connecting line": "Paris Métro Line 14",
+        "Adjacent station": "Bibliothèque François Mitterrand (Saint-Denis Pleyel, Paris Métro Line 14)Maison Blanche (Aéroport d'Orly, Paris Métro Line 14, 2024–)"
+    },
+    "Opéra (Paris Metro)": {
+        "Localisation": "48° 52′ 15″ N, 2° 19′ 56″ E"
+    },
+    "Ourcq (Paris Metro)": {
+        "Localisation": "48° 53′ 12.01″ N, 2° 23′ 08.02″ E",
+        "Named after": "Rue de l'Ourcq",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "12 October 1942",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Laumière (Place d'Italie, Paris Métro Line 5)Porte de Pantin (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Parc des Expositions (Paris Metro)": {
+        "Localisation": "48° 58′ 25″ N, 2° 30′ 51.98″ E",
+        "Location": "Villepinte, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Adjacent building": "Parc des Expositions",
+        "Connecting line": "Paris Métro Line 17",
+        "Adjacent station": "Triangle de Gonesse (Saint-Denis Pleyel, Paris Métro Line 17, Paris Métro Line 17)Aéroport Charles-de-Gaulle Terminal 2 (Le Mesnil-Amelot, Paris Métro Line 17, Paris Métro Line 17)",
+        "Interchange station": "Parc des Expositions (proposed building or structure)"
+    },
+    "Palais Royal - Musée du Louvre (Paris Metro)": {
+        "Localisation": "48° 51′ 46.2″ N, 2° 20′ 08.9″ E"
+    },
+    "Parmentier (Paris Metro)": {
+        "Localisation": "48° 51′ 55″ N, 2° 22′ 28″ E"
+    },
+    "Pasteur (Paris Metro)": {},
+    "Le Peletier (Paris Metro)": {
+        "Localisation": "48° 52′ 29″ N, 2° 20′ 22″ E",
+        "Named after": "rue Le Peletier",
+        "Location": "9th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1911",
+        "Date of official opening": "6 June 1911",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Chaussée d'Antin – La Fayette (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Cadet (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Passy (Paris Metro)": {
+        "Localisation": "48° 51′ 26.8″ N, 2° 17′ 08.8″ E",
+        "Named after": "Passy",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1903",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Trocadéro (Charles de Gaulle - Étoile, Paris Métro Line 6)Bir-Hakeim (Nation, Paris Métro Line 6)"
+    },
+    "Parc du Blanc-Mesnil (Paris Metro)": {
+        "Localisation": "48° 56′ 44.52″ N, 2° 27′ 47.52″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16",
+        "Adjacent station": "Aulnay (Noisy - Champs, Paris Métro Line 16)Le Bourget RER (Saint-Denis Pleyel, Paris Métro Line 16)"
+    },
+    "Pelleport (Paris Metro)": {
+        "Localisation": "48° 52′ 07″ N, 2° 24′ 06.01″ E",
+        "Location": "20th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 November 1921",
+        "Connecting line": "Paris Métro Line 3bis",
+        "Adjacent station": "Gambetta (Gambetta, Paris Métro Line 3bis)Saint-Fargeau (Porte des Lilas, Paris Métro Line 3bis)"
+    },
+    "Pereire (Paris Metro)": {
+        "Localisation": "48° 53′ 04.99″ N, 2° 17′ 57.01″ E",
+        "Named after": "boulevard Pereire",
+        "Location": "17th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "23 May 1910",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Porte de Champerret (Pont de Levallois – Bécon, Paris Métro Line 3)Wagram (Gallieni, Paris Métro Line 3)",
+        "Interchange station": "Pereire – Levallois"
+    },
+    "Père Lachaise (Paris Metro)": {
+        "Localisation": "48° 51′ 47″ N, 2° 23′ 15″ E"
+    },
+    "Pernety (Paris Metro)": {
+        "Localisation": "48° 50′ 03.01″ N, 2° 19′ 05.99″ E",
+        "Named after": "rue Pernety",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "21 January 1937",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Gaîté (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Plaisance (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Philippe Auguste (Paris Metro)": {
+        "Localisation": "48° 51′ 29″ N, 2° 23′ 27″ E"
+    },
+    "Pierre et Marie Curie (Paris Metro)": {
+        "Localisation": "48° 48′ 55.01″ N, 2° 22′ 40.01″ E",
+        "Named after": "Pierre and Marie Curie University",
+        "Location": "Ivry-sur-Seine, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 May 1946",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Mairie d'Ivry (Mairie d'Ivry, Paris Métro Line 7)Porte d'Ivry (La Courneuve - 8 Mai 1945, Paris Métro Line 7)",
+        "Different from": "Marie-Curie station"
+    },
+    "Picpus (Paris Metro)": {
+        "Localisation": "48° 50′ 42.3″ N, 2° 24′ 04″ E"
+    },
+    "Place d'Italie (Paris Metro)": {
+        "Localisation": "48° 49′ 53″ N, 2° 21′ 20″ E"
+    },
+    "Pigalle (Paris Metro)": {
+        "Localisation": "48° 52′ 56″ N, 2° 20′ 15″ E"
+    },
+    "Place de Clichy (Paris Metro)": {
+        "Localisation": "48° 53′ 02″ N, 2° 19′ 39″ E"
+    },
+    "Place des Fêtes (Paris Metro)": {
+        "Localisation": "48° 52′ 36.01″ N, 2° 23′ 35.99″ E",
+        "Named after": "place des Fêtes",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 February 1912",
+        "Connecting line": "Paris Métro Line 7bisParis Métro Line 11 (1935–)",
+        "Adjacent station": "Pré Saint-Gervais (Pré Saint-Gervais, Paris Métro Line 7bis)Botzaris (Paris Métro Line 7bis)Jourdain (Châtelet, Paris Métro Line 11)Télégraphe (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Place Monge (Paris Metro)": {
+        "Localisation": "48° 50′ 37″ N, 2° 21′ 07.99″ E",
+        "Named after": "place Monge",
+        "Location": "5th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1930",
+        "Date of official opening": "15 February 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Censier – Daubenton (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Jussieu (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Plaisance (Paris Metro)": {
+        "Localisation": "48° 49′ 53″ N, 2° 18′ 49″ E",
+        "Named after": "Plaisance",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1937",
+        "Date of official opening": "21 January 1937",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Pernety (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Porte de Vanves (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Pointe du Lac (Paris Metro)": {},
+    "Poissonnière (Paris Metro)": {
+        "Localisation": "48° 52′ 36.98″ N, 2° 20′ 53.99″ E",
+        "Named after": "boulevard Poissonnière",
+        "Location": "9th arrondissement of Paris10th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Cadet (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Gare de l'Est (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Pont de Levallois - Bécon (Paris Metro)": {
+        "Localisation": "48° 53′ 50.33″ N, 2° 16′ 50.83″ E",
+        "Named after": "pont de LevalloisBécon-les-Bruyères",
+        "Location": "Levallois-Perret, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1937",
+        "Date of official opening": "24 September 1937",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Anatole France (Gallieni, Paris Métro Line 3)"
+    },
+    "Polytechnique (Paris Metro)": {
+        "Localisation": "48° 42′ 56″ N, 2° 12′ 04″ E",
+        "Location": "Palaiseau, Essonne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Université Paris-Saclay (Nanterre La Folie, Paris Métro Line 18)Massy - Palaiseau (Aéroport d'Orly, Paris Métro Line 18)"
+    },
+    "Pont Cardinet (Paris Metro)": {
+        "Localisation": "48° 53′ 18.9″ N, 2° 18′ 55.39″ E",
+        "Location": "17th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Date of official opening": "14 December 2020",
+        "Connecting line": "Paris Métro Line 14",
+        "Adjacent station": "Porte de Clichy (Saint-Denis Pleyel, Paris Métro Line 14)Saint-Lazare (Aéroport d'Orly, Paris Métro Line 14)",
+        "Interchange station": "Gare de Pont Cardinet"
+    },
+    "Pont de Bondy (Paris Metro)": {
+        "Localisation": "48° 54′ 17.64″ N, 2° 28′ 13.8″ E",
+        "Location": "Bondy, arrondissement of Bobigny, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Bondy (Champigny Centre, Paris Métro Line 15)Bobigny – Pablo Picasso (Saint-Denis Pleyel, Paris Métro Line 15)",
+        "Interchange station": "Pont de Bondy (tramway d'Île-de-France)"
+    },
+    "Pont de Sèvres (Paris Metro)": {
+        "Localisation": "48° 49′ 45.98″ N, 2° 13′ 50.99″ E",
+        "Named after": "Pont de Sèvres",
+        "Location": "Boulogne-Billancourt, arrondissement of Boulogne-Billancourt, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Jean-Marie Duthilleul",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1934",
+        "Date of official opening": "3 February 1934",
+        "Connecting line": "Paris Métro Line 9Paris Métro Line 15 (building or structure under construction, 2022–)",
+        "Adjacent station": "Billancourt (Mairie de Montreuil, Paris Métro Line 9)Saint-Cloud (Saint-Denis Pleyel, Paris Métro Line 15, building or structure under construction)Issy RER (Noisy - Champs, Paris Métro Line 15, building or structure under construction)",
+        "Interchange station": "Musée de Sèvres (tramway d'Île-de-France)"
+    },
+    "Pont de Neuilly (Paris Metro)": {
+        "Localisation": "48° 53′ 04.23″ N, 2° 15′ 35.61″ E",
+        "Location": "Neuilly-sur-Seine, arrondissement of Nanterre, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Date of official opening": "29 April 1937",
+        "Connecting line": "Paris Métro Line 1 (Les Sablons, Esplanade de La Défense)",
+        "Adjacent station": "Esplanade de La Défense (La Défense, Paris Métro Line 1)Les Sablons (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Pont Marie (Paris Metro)": {
+        "Localisation": "48° 51′ 11.02″ N, 2° 21′ 27″ E",
+        "Named after": "Pont Marie",
+        "Location": "4th arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "16 April 1926",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Sully – Morland (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Châtelet (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Pont Neuf (Paris Metro)": {
+        "Localisation": "48° 51′ 30.88″ N, 2° 20′ 31.99″ E",
+        "Named after": "Pont Neuf",
+        "Location": "1st arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "16 April 1926",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Châtelet (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Palais Royal - Musée du Louvre (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Porte d'Auteuil (Paris Metro)": {
+        "Localisation": "48° 50′ 53.14″ N, 2° 15′ 36.19″ E"
+    },
+    "Porte d'Italie (Paris Metro)": {
+        "Localisation": "48° 49′ 08.94″ N, 2° 21′ 35.34″ E",
+        "Named after": "porte d'Italie",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "7 March 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Porte de Choisy (Mairie d'Ivry, Paris Métro Line 7)Maison Blanche (La Courneuve - 8 Mai 1945, Paris Métro Line 7)",
+        "Interchange station": "Porte d'Italie"
+    },
+    "Porte d'Ivry (Paris Metro)": {
+        "Localisation": "48° 49′ 17.76″ N, 2° 22′ 09.62″ E",
+        "Named after": "porte d'Ivry",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "26 April 1931",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Pierre et Marie Curie (Mairie d'Ivry, Paris Métro Line 7)Porte de Choisy (La Courneuve - 8 Mai 1945, Paris Métro Line 7)",
+        "Interchange station": "Porte d'Ivry"
+    },
+    "Porte d'Orléans (Paris Metro)": {
+        "Localisation": "48° 49′ 21.36″ N, 2° 19′ 29.3″ E",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 October 1909",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Alésia (Porte de Clignancourt, Paris Métro Line 4)Mairie de Montrouge (Bagneux–Lucie Aubrac, Paris Métro Line 4)",
+        "Interchange station": "Porte d'Orléans"
+    },
+    "Porte Dauphine (Paris Metro)": {
+        "Localisation": "48° 52′ 19.69″ N, 2° 16′ 37.21″ E"
+    },
+    "Porte de Champerret (Paris Metro)": {
+        "Localisation": "48° 53′ 08.99″ N, 2° 17′ 37″ E",
+        "Named after": "porte de Champerret",
+        "Location": "17th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "15 February 1911",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Louise Michel (Pont de Levallois – Bécon, Paris Métro Line 3)Pereire (Gallieni, Paris Métro Line 3)",
+        "Interchange station": "Porte de Champerret"
+    },
+    "Porte de Charenton (Paris Metro)": {
+        "Localisation": "48° 49′ 55.99″ N, 2° 23′ 56.54″ E",
+        "Named after": "Porte de Charenton",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Porte Dorée (Balard, Paris Métro Line 8)Liberté (Pointe du Lac, Paris Métro Line 8)",
+        "Interchange station": "Porte de Charenton"
+    },
+    "Porte de Bagnolet (Paris Metro)": {
+        "Localisation": "48° 51′ 51.98″ N, 2° 24′ 25.99″ E",
+        "Named after": "porte de Bagnolet",
+        "Location": "Quartier Saint-Fargeau, 20th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1971",
+        "Date of official opening": "2 April 1971",
+        "Connecting line": "Paris Métro Line 3",
+        "Adjacent station": "Gambetta (Pont de Levallois – Bécon, Paris Métro Line 3)Gallieni (Gallieni, Paris Métro Line 3)",
+        "Interchange station": "Porte de Bagnolet"
+    },
+    "Porte de Clichy (Paris Metro)": {
+        "Localisation": "48° 53′ 38″ N, 2° 18′ 47.99″ E",
+        "Named after": "porte de Clichy",
+        "Location": "17th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "20 January 1912",
+        "Connecting line": "Paris Métro Line 13Paris Métro Line 14 (2021–)",
+        "Adjacent station": "Mairie de Clichy (Les Courtilles, Paris Métro Line 13)Brochant (Châtillon - Montrouge, Paris Métro Line 13)Saint-Ouen (Saint-Denis Pleyel, Paris Métro Line 14, 2020–)Pont Cardinet (Aéroport d'Orly, Paris Métro Line 14, 2020–)",
+        "Interchange station": "Gare de la Porte de ClichyPorte de Clichy - Tribunal de Paris"
+    },
+    "Porte de Choisy (Paris Metro)": {
+        "Localisation": "48° 49′ 11.77″ N, 2° 21′ 51.9″ E",
+        "Named after": "porte de Choisy",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1930",
+        "Date of official opening": "7 March 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Porte d'Ivry (Mairie d'Ivry, Paris Métro Line 7)Porte d'Italie (La Courneuve - 8 Mai 1945, Paris Métro Line 7)",
+        "Interchange station": "Porte de Choisy"
+    },
+    "Porte de Clignancourt (Paris Metro)": {
+        "Localisation": "48° 53′ 50.23″ N, 2° 20′ 41.2″ E",
+        "Named after": "porte de Clignancourt",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "21 April 1908",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Simplon (Bagneux–Lucie Aubrac, Paris Métro Line 4)",
+        "Interchange station": "Porte de Clignancourt"
+    },
+    "Porte de la Villette (Paris Metro)": {
+        "Localisation": "48° 53′ 50.64″ N, 2° 23′ 08.12″ E",
+        "Named after": "porte de la Villette",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Corentin Cariou (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Aubervilliers – Pantin – Quatre Chemins (La Courneuve - 8 Mai 1945, Paris Métro Line 7)",
+        "Interchange station": "Porte de la Villette"
+    },
+    "Porte de la Chapelle (Paris Metro)": {
+        "Localisation": "48° 53′ 50″ N, 2° 21′ 33″ E",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1916–1929)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1930–1948)Nord-Sud Company (1916–1929)",
+        "Date of official opening": "23 August 1916",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Front Populaire (Mairie d'Aubervilliers, Paris Métro Line 12)Marx Dormoy (Mairie d'Issy, Paris Métro Line 12)",
+        "Interchange station": "Porte de la Chapelle"
+    },
+    "Porte de Montreuil (Paris Metro)": {
+        "Localisation": "48° 51′ 13″ N, 2° 24′ 43.99″ E",
+        "Named after": "porte de Montreuil",
+        "Location": "20th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1933",
+        "Date of official opening": "10 December 1933",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Maraîchers (Pont de Sèvres, Paris Métro Line 9)Robespierre (Mairie de Montreuil, Paris Métro Line 9)",
+        "Interchange station": "Porte de Montreuil"
+    },
+    "Porte de Saint-Cloud (Paris Metro)": {
+        "Localisation": "48° 50′ 17.02″ N, 2° 15′ 24.01″ E",
+        "Named after": "porte de Saint-Cloud",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1923",
+        "Date of official opening": "29 September 1923",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Marcel Sembat (Pont de Sèvres, Paris Métro Line 9)Exelmans (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Porte de Vanves (Paris Metro)": {
+        "Localisation": "48° 49′ 40.58″ N, 2° 18′ 21.17″ E",
+        "Named after": "porte de Vanves",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1937",
+        "Date of official opening": "21 January 1937",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Plaisance (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Malakoff – Plateau de Vanves (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Interchange station": "Porte de Vanves"
+    },
+    "Porte de Versailles (Paris Metro)": {
+        "Localisation": "48° 49′ 56″ N, 2° 17′ 16″ E",
+        "Named after": "porte de Versailles",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Convention (Mairie d'Aubervilliers, Paris Métro Line 12)Corentin Celton (Mairie d'Issy, Paris Métro Line 12)",
+        "Interchange station": "Porte de Versailles"
+    },
+    "Porte de Pantin (Paris Metro)": {
+        "Localisation": "48° 53′ 19.17″ N, 2° 23′ 33.64″ E",
+        "Named after": "porte de Pantin",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "12 October 1942",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Ourcq (Place d'Italie, Paris Métro Line 5)Hoche (Bobigny – Pablo Picasso, Paris Métro Line 5)",
+        "Interchange station": "Porte de Pantin (tramway d'Île-de-France)"
+    },
+    "Porte des Lilas (Paris Metro)": {
+        "Localisation": "48° 52′ 36.98″ N, 2° 24′ 24.01″ E",
+        "Named after": "porte des Lilas",
+        "Location": "19th arrondissement of Paris20th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1921",
+        "Date of official opening": "27 November 1921",
+        "Connecting line": "Paris Métro Line 3bisParis Métro Line 11",
+        "Adjacent station": "Saint-Fargeau (Gambetta, Paris Métro Line 3bis)Télégraphe (Châtelet, Paris Métro Line 11)Mairie des Lilas (Rosny-Bois-Perrier, Paris Métro Line 11)",
+        "Interchange station": "Porte des Lilas"
+    },
+    "Porte de Saint-Ouen (Paris Metro)": {
+        "Localisation": "48° 53′ 48″ N, 2° 19′ 43″ E",
+        "Named after": "porte de Saint-Ouen",
+        "Location": "17th arrondissement of Paris18th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1911",
+        "Date of official opening": "26 February 1911",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Garibaldi metro station (Saint-Denis – Université, Paris Métro Line 13)Guy Môquet (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Interchange station": "Porte de Saint-Ouen"
+    },
+    "Porte de Vincennes (Paris Metro)": {
+        "Localisation": "48° 50′ 50.16″ N, 2° 24′ 31.98″ E",
+        "Named after": "porte de Vincennes",
+        "Location": "12th arrondissement of Paris20th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Date of official opening": "19 July 1900",
+        "Connecting line": "Paris Métro Line 1 (Saint-Mandé, Nation)",
+        "Adjacent station": "Nation (La Défense, Paris Métro Line 1)Saint-Mandé (Château de Vincennes, Paris Métro Line 1)",
+        "Interchange station": "Porte de VincennesPorte de Vincennes"
+    },
+    "Porte des Lilas - Cinéma (Paris Metro)": {
+        "Localisation": "48° 53′ 14.4″ N, 2° 14′ 45.93″ E",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Has use": "filming location",
+        "Inception": "1921",
+        "Date of official opening": "192127 March 1971",
+        "Date of official closure": "1956",
+        "Connecting line": "La voie des Fêtes et la voie navette"
+    },
+    "Porte Dorée (Paris Metro)": {
+        "Localisation": "48° 50′ 07.01″ N, 2° 24′ 20.99″ E",
+        "Named after": "porte Dorée",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Michel Bizot (Balard, Paris Métro Line 8)Porte de Charenton (Pointe du Lac, Paris Métro Line 8)",
+        "Interchange station": "Porte Dorée"
+    },
+    "Pré Saint-Gervais (Paris Metro)": {
+        "Localisation": "48° 52′ 48″ N, 2° 23′ 56″ E"
+    },
+    "Porte Molitor (Paris Metro)": {
+        "Localisation": "48° 50′ 34.73″ N, 2° 15′ 22.82″ E",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Connecting line": "Paris Métro Line 9Paris Métro Line 10"
+    },
+    "Pyramides (Paris Metro)": {
+        "Localisation": "48° 51′ 57″ N, 2° 20′ 05″ E",
+        "Named after": "rue des Pyramides",
+        "Location": "1st arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 July 1916",
+        "Connecting line": "Paris Métro Line 7Paris Métro Line 14 (1998–)",
+        "Adjacent station": "Palais Royal - Musée du Louvre (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Opéra (La Courneuve - 8 Mai 1945, Paris Métro Line 7)Madeleine (Saint-Denis Pleyel, Paris Métro Line 14)Châtelet (Aéroport d'Orly, Paris Métro Line 14)",
+        "Different from": "PyramidePirámides"
+    },
+    "Porte Maillot (Paris Metro)": {
+        "Localisation": "48° 52′ 40.67″ N, 2° 16′ 54.61″ E",
+        "Location": "16th arrondissement of Paris17th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Date of official opening": "19 July 1900",
+        "Connecting line": "Paris Métro Line 1 (Argentine, Les Sablons)",
+        "Adjacent station": "Les Sablons (La Défense, Paris Métro Line 1)Argentine (Château de Vincennes, Paris Métro Line 1)",
+        "Interchange station": "Neuilly – Porte MaillotPorte Maillot"
+    },
+    "Quai de la Gare (Paris Metro)": {
+        "Localisation": "48° 50′ 12.98″ N, 2° 22′ 23.02″ E",
+        "Named after": "quai de la Gare",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "1 March 1909",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Chevaleret (Charles de Gaulle - Étoile, Paris Métro Line 6)Bercy (Nation, Paris Métro Line 6)"
+    },
+    "Pyrénées (Paris Metro)": {
+        "Localisation": "48° 52′ 25.97″ N, 2° 23′ 06.9″ E",
+        "Named after": "rue des Pyrénées",
+        "Location": "19th arrondissement of Paris20th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1935",
+        "Date of official opening": "28 April 1935",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Belleville (Châtelet, Paris Métro Line 11)Jourdain (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Quai de la Rapée (Paris Metro)": {
+        "Localisation": "48° 50′ 47″ N, 2° 21′ 56.02″ E",
+        "Named after": "quai de la Rapée",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 July 1906",
+        "Connecting line": "Paris Métro Line 5",
+        "Adjacent station": "Gare d'Austerlitz (Place d'Italie, Paris Métro Line 5)Bastille (Bobigny – Pablo Picasso, Paris Métro Line 5)"
+    },
+    "Réaumur - Sébastopol (Paris Metro)": {},
+    "Ranelagh (Paris Metro)": {
+        "Localisation": "48° 51′ 16.99″ N, 2° 16′ 09.98″ E",
+        "Named after": "rue du Ranelagh",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "8 November 1922",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Jasmin (Pont de Sèvres, Paris Métro Line 9)La Muette (Mairie de Montreuil, Paris Métro Line 9)",
+        "Different from": "Ranelagh Luas stopRanelagh train station"
+    },
+    "Rambuteau (Paris Metro)": {
+        "Localisation": "48° 51′ 42.41″ N, 2° 21′ 13.72″ E",
+        "Named after": "Rue Rambuteau",
+        "Location": "3rd arrondissement of Paris4th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "28 April 1935",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Hôtel de Ville (Châtelet, Paris Métro Line 11)Arts et Métiers (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Quatre-Septembre (Paris Metro)": {
+        "Localisation": "48° 52′ 11″ N, 2° 20′ 12″ E"
+    },
+    "Raspail (Paris Metro)": {},
+    "Reuilly - Diderot (Paris Metro)": {
+        "Localisation": "48° 50′ 50.06″ N, 2° 23′ 10.03″ E",
+        "Named after": "rue de Reuillyboulevard Diderot (1931–)",
+        "Location": "12th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Date of official opening": "20 August 1900 (Paris Métro Line 1)",
+        "Connecting line": "Paris Métro Line 1 (Nation, Gare de Lyon)Paris Métro Line 8 (Montgallet, Faidherbe – Chaligny)",
+        "Adjacent station": "Gare de Lyon (La Défense, Paris Métro Line 1)Nation (Château de Vincennes, Paris Métro Line 1)Faidherbe – Chaligny (Balard, Paris Métro Line 8)Montgallet (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Rennes (Paris Metro)": {
+        "Localisation": "48° 50′ 53″ N, 2° 19′ 40″ E",
+        "Named after": "rue de Rennes",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Sèvres–Babylone (Mairie d'Aubervilliers, Paris Métro Line 12)Notre-Dame-des-Champs (Mairie d'Issy, Paris Métro Line 12)",
+        "Different from": "Rennes "
+    },
+    "République (Paris Metro)": {
+        "Localisation": "48° 52′ 03″ N, 2° 21′ 48″ E"
+    },
+    "Richard-Lenoir (Paris Metro)": {
+        "Localisation": "48° 51′ 35″ N, 2° 22′ 19″ E"
+    },
+    "Richelieu - Drouot (Paris Metro)": {
+        "Localisation": "48° 52′ 18.98″ N, 2° 20′ 19″ E",
+        "Named after": "rue de Richelieurue Drouot",
+        "Location": "2nd arrondissement of Paris9th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8Paris Métro Line 9",
+        "Adjacent station": "Opéra (Balard, Paris Métro Line 8)Grands Boulevards (Pointe du Lac, Paris Métro Line 8)Chaussée d'Antin – La Fayette (Pont de Sèvres, Paris Métro Line 9)Grands Boulevards (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Riquet (Paris Metro)": {
+        "Localisation": "48° 53′ 16.01″ N, 2° 22′ 23.99″ E",
+        "Location": "19th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "6 November 1910",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Stalingrad (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Crimée (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Robespierre (Paris Metro)": {
+        "Localisation": "48° 51′ 20.46″ N, 2° 25′ 25.24″ E",
+        "Named after": "Maximilien Robespierre",
+        "Location": "Montreuil, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "14 October 1937",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Porte de Montreuil (Pont de Sèvres, Paris Métro Line 9)Croix de Chavaux (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Rome (Paris Metro)": {},
+    "Romainville - Carnot (Paris Metro)": {
+        "Localisation": "48° 52′ 59.41″ N, 2° 26′ 25.87″ E",
+        "Named after": "Sadi CarnotPlace Carnot",
+        "Location": "RomainvilleNoisy-le-SecFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 June 2024",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Serge Gainsbourg (Châtelet, Paris Métro Line 11)Montreuil - Hôpital (Rosny-Bois-Perrier, Paris Métro Line 11)",
+        "Interchange station": "Place Carnot"
+    },
+    "Rosny-Bois-Perrier (Paris Metro)": {
+        "Localisation": "48° 52′ 56.71″ N, 2° 28′ 50.99″ E",
+        "Named after": "Rosny-sous-Bois",
+        "Location": "Rosny-sous-Bois, Seine-Saint-Denis, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 June 2024",
+        "Connecting line": "Paris Métro Line 11 (Coteaux Beauclair)",
+        "Adjacent station": "Coteaux Beauclair (Châtelet, Paris Métro Line 11)",
+        "Interchange station": "Rosny-Bois-Perrier station"
+    },
+    "Rue du Bac (Paris Metro)": {
+        "Localisation": "48° 51′ 20″ N, 2° 19′ 32″ E",
+        "Named after": "Rue du Bac",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1910",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Solférino (Mairie d'Aubervilliers, Paris Métro Line 12)Sèvres–Babylone (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Rue de la Pompe (Paris Metro)": {
+        "Localisation": "48° 51′ 50.42″ N, 2° 16′ 41.11″ E",
+        "Named after": "rue de la Pompe",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "8 November 1922",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "La Muette (Pont de Sèvres, Paris Métro Line 9)Trocadéro (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Rue Saint-Maur (Paris Metro)": {},
+    "Rue des Boulets (Paris Metro)": {
+        "Localisation": "48° 51′ 06.01″ N, 2° 23′ 24″ E",
+        "Named after": "rue des Boulets",
+        "Location": "11th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1933",
+        "Date of official opening": "10 December 1933",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Charonne (Pont de Sèvres, Paris Métro Line 9)Nation (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Les Sablons (Paris Metro)": {
+        "Localisation": "48° 52′ 51.25″ N, 2° 16′ 21.14″ E",
+        "Location": "Neuilly-sur-Seine, arrondissement of Nanterre, Hauts-de-Seine, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)",
+        "Operator": "RATP (1949–)",
+        "Date of official opening": "29 April 1937",
+        "Connecting line": "Paris Métro Line 1 (Porte Maillot, Pont de Neuilly)",
+        "Adjacent station": "Pont de Neuilly (La Défense, Paris Métro Line 1)Porte Maillot (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Rueil - Suresnes Mont-Valérien (Paris Metro)": {
+        "Localisation": "48° 52′ 19.56″ N, 2° 12′ 07.56″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Nanterre La Boule (Saint-Denis Pleyel, Paris Métro Line 15)Saint-Cloud (Pont de Sèvres, Paris Métro Line 15)"
+    },
+    "Saint-Denis - Université (Paris Metro)": {
+        "Localisation": "48° 56′ 45″ N, 2° 21′ 49″ E",
+        "Named after": "Saint-DenisParis 8 University",
+        "Location": "Saint-DenisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1998",
+        "Date of official opening": "25 May 1998",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Basilique de Saint-Denis (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Interchange station": "Guynemer"
+    },
+    "Saint-Ambroise (Paris Metro)": {
+        "Localisation": "48° 51′ 41″ N, 2° 22′ 26″ E",
+        "Location": "11th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "10 December 1933",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Oberkampf (Pont de Sèvres, Paris Métro Line 9)Voltaire (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Saint-Augustin (Paris Metro)": {
+        "Localisation": "48° 52′ 27.01″ N, 2° 19′ 18.98″ E",
+        "Named after": "Saint-Augustin, Paris",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 May 1923",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Miromesnil (Pont de Sèvres, Paris Métro Line 9)Havre – Caumartin (Mairie de Montreuil, Paris Métro Line 9)",
+        "Interchange station": "Saint-Lazare"
+    },
+    "Saint-Denis - Porte de Paris (Paris Metro)": {
+        "Localisation": "48° 55′ 47.17″ N, 2° 21′ 23.72″ E"
+    },
+    "Saint-Fargeau (Paris Metro)": {
+        "Localisation": "48° 52′ 18.98″ N, 2° 24′ 15.98″ E",
+        "Location": "20th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "27 November 1921",
+        "Connecting line": "Paris Métro Line 3bis",
+        "Adjacent station": "Pelleport (Gambetta, Paris Métro Line 3bis)Porte des Lilas (Porte des Lilas, Paris Métro Line 3bis)"
+    },
+    "Saint-François-Xavier (Paris Metro)": {
+        "Localisation": "48° 51′ 06.98″ N, 2° 18′ 51.98″ E",
+        "Named after": "Saint-François-Xavier, Paris",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "20 December 1923",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Varenne (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Duroc (Châtillon - Montrouge, Paris Métro Line 13)",
+        "Different from": "São Francisco Xavier"
+    },
+    "Saint-Georges (Paris Metro)": {
+        "Localisation": "48° 52′ 42″ N, 2° 20′ 15″ E",
+        "Named after": "place Saint-Georges",
+        "Location": "9th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "8 April 1911",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Pigalle (Mairie d'Aubervilliers, Paris Métro Line 12)Notre-Dame-de-Lorette (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Saint-Cloud (Paris Metro)": {
+        "Localisation": "48° 50′ 37.32″ N, 2° 13′ 01.56″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Pont de Sèvres (Pont de Sèvres, Paris Métro Line 15)Rueil – Suresnes Mont-Valérien (Saint-Denis Pleyel, Paris Métro Line 15)"
+    },
+    "Saint-Denis Pleyel (Paris Metro)": {
+        "Localisation": "48° 55′ 03.36″ N, 2° 20′ 48.01″ E",
+        "Named after": "Saint-Deniscarrefour Pleyel",
+        "Location": "Saint-DenisFrance",
+        "Transport network": "Paris Métro",
+        "Architect": "Kengo Kuma",
+        "Operator": "Keolis",
+        "Date of official opening": "24 June 2024",
+        "Significant event": "start of construction (2017)",
+        "Connecting line": "Paris Métro Line 14Paris Métro Line 15 (building or structure under construction)Paris Métro Line 16 (building or structure under construction)Paris Métro Line 17 (building or structure under construction)",
+        "Adjacent station": "Les Grésillons (Pont de Sèvres, Paris Métro Line 15)Stade de France (Champigny Centre, Paris Métro Line 15)La Courneuve - Six Routes (Noisy - Champs, Paris Métro Line 16)Mairie de Saint-Ouen (Aéroport d'Orly, Paris Métro Line 14)La Courneuve - Six Routes (Le Mesnil-Amelot, Paris Métro Line 17)",
+        "Interchange station": "Stade de France – Saint-Denis"
+    },
+    "Saint-Jacques (Paris Metro)": {
+        "Localisation": "48° 49′ 58.01″ N, 2° 20′ 12.98″ E",
+        "Named after": "Faubourg Saint-Jacquesboulevard Saint-Jacquesrue du Faubourg-Saint-Jacques",
+        "Location": "14th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Denfert-Rochereau (Charles de Gaulle - Étoile, Paris Métro Line 6)Glacière (Nation, Paris Métro Line 6)"
+    },
+    "Saint-Germain-des-Prés (Paris Metro)": {
+        "Localisation": "48° 51′ 13.01″ N, 2° 20′ 01.39″ E",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1910",
+        "Date of official opening": "9 January 1910",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Odéon (Porte de Clignancourt, Paris Métro Line 4)Saint-Sulpice (Bagneux–Lucie Aubrac, Paris Métro Line 4)"
+    },
+    "Saint-Mandé (Paris Metro)": {
+        "Localisation": "48° 50′ 46.67″ N, 2° 25′ 07.22″ E",
+        "Named after": "Saint-Mandé",
+        "Location": "Saint-MandéVincennesFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1934–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1934–1948)",
+        "Date of official opening": "24 March 1934",
+        "Connecting line": "Paris Métro Line 1 (Bérault, Porte de Vincennes)",
+        "Adjacent station": "Porte de Vincennes (La Défense, Paris Métro Line 1)Bérault (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Saint-Marcel (Paris Metro)": {},
+    "Saint-Maur - Créteil (Paris Metro)": {
+        "Localisation": "48° 48′ 24.84″ N, 2° 28′ 21.97″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Créteil - L'Échat (Pont de Sèvres, Paris Métro Line 15)Champigny Centre (Noisy - Champs, Paris Métro Line 15)"
+    },
+    "Saint-Martin (Paris Metro)": {
+        "Localisation": "48° 52′ 06.24″ N, 2° 21′ 31.18″ E",
+        "Named after": "boulevard Saint-Martin",
+        "Location": "3rd arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Inception": "5 May 1931",
+        "Date of official opening": "5 May 1931",
+        "Date of official closure": "2 September 1939",
+        "Connecting line": "Paris Métro Line 8Paris Métro Line 9 (1933–)",
+        "Adjacent station": "Strasbourg – Saint-DenisRépublique"
+    },
+    "Saint-Lazare (Paris Metro)": {},
+    "Saint-Paul (Paris Metro)": {
+        "Localisation": "48° 51′ 18.52″ N, 2° 21′ 38.35″ E",
+        "Named after": "rue Saint-PaulSaint-Paul-Saint-Louis",
+        "Location": "4th arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Operator": "RATP (1949–)Compagnie du chemin de fer métropolitain de Paris (1900–1948)",
+        "Date of official opening": "6 August 1900",
+        "Connecting line": "Paris Métro Line 1 (Bastille, Hôtel de Ville)",
+        "Adjacent station": "Hôtel de Ville (La Défense, Paris Métro Line 1)Bastille (Château de Vincennes, Paris Métro Line 1)"
+    },
+    "Saint-Placide (Paris Metro)": {
+        "Localisation": "48° 50′ 48.5″ N, 2° 19′ 37.04″ E",
+        "Named after": "rue Saint-Placide",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "9 January 1910",
+        "Date of official opening": "9 January 1910",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Saint-Sulpice (Porte de Clignancourt, Paris Métro Line 4)Montparnasse – Bienvenüe (Bagneux–Lucie Aubrac, Paris Métro Line 4)",
+        "Different from": "Saint-Placide"
+    },
+    "Saint-Philippe du Roule (Paris Metro)": {
+        "Localisation": "48° 52′ 20.39″ N, 2° 18′ 36.29″ E",
+        "Named after": "Église Saint-Philippe-du-Roule",
+        "Location": "8th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1923",
+        "Date of official opening": "27 May 1923",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Franklin D. Roosevelt (Pont de Sèvres, Paris Métro Line 9)Miromesnil (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Saint-Michel (Paris Metro)": {
+        "Localisation": "48° 51′ 11.34″ N, 2° 20′ 34.62″ E"
+    },
+    "Saint-Sulpice (Paris Metro)": {
+        "Localisation": "48° 51′ 02.9″ N, 2° 19′ 51.12″ E",
+        "Named after": "rue Saint-Sulpice",
+        "Location": "6th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "9 January 1910",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Saint-Germain-des-Prés (Porte de Clignancourt, Paris Métro Line 4)Saint-Placide (Bagneux–Lucie Aubrac, Paris Métro Line 4)"
+    },
+    "Saint-Sébastien - Froissart (Paris Metro)": {
+        "Localisation": "48° 51′ 37.01″ N, 2° 22′ 01.99″ E",
+        "Named after": "Rue Saint-Sébastienrue Froissart (1932–)",
+        "Location": "3rd arrondissement of Paris11th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1931",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "Filles du Calvaire (Balard, Paris Métro Line 8)Chemin Vert (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Satory (Paris Metro)": {
+        "Localisation": "48° 47′ 14″ N, 2° 06′ 16″ E",
+        "Transport network": "Paris Métro",
+        "Architect": "Corinne Vezzoni",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Guyancourt (Aéroport d'Orly, Paris Métro Line 18)Versailles Chantiers (Nanterre La Folie, Paris Métro Line 18)"
+    },
+    "Ségur (Paris Metro)": {
+        "Localisation": "48° 50′ 49.24″ N, 2° 18′ 26.96″ E",
+        "Named after": "avenue de Ségur",
+        "Location": "7th arrondissement of Paris15th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 July 1913",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "La Motte-Picquet – Grenelle (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Duroc (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Sevran - Beaudottes (Paris Metro)": {
+        "Localisation": "48° 56′ 49.8″ N, 2° 31′ 31.96″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16",
+        "Adjacent station": "Sevran - Livry (Noisy - Champs, Paris Métro Line 16)Aulnay (Saint-Denis Pleyel, Paris Métro Line 16)",
+        "Interchange station": "Sevran – Beaudottes station (building or structure under construction)"
+    },
+    "Sentier (Paris Metro)": {},
+    "Sevran - Livry (Paris Metro)": {
+        "Localisation": "48° 56′ 07.44″ N, 2° 32′ 05.28″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 16",
+        "Adjacent station": "Clichy - Montfermeil (Noisy - Champs, Paris Métro Line 16)Sevran - Beaudottes (Saint-Denis Pleyel, Paris Métro Line 16)",
+        "Interchange station": "Gare de Sevran – Livry (building or structure under construction)"
+    },
+    "Sèvres - Lecourbe (Paris Metro)": {
+        "Localisation": "48° 50′ 44.02″ N, 2° 18′ 33.98″ E",
+        "Named after": "rue de Sèvresrue Lecourbe",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1906",
+        "Date of official opening": "24 April 1906",
+        "Connecting line": "Paris Métro Line 6",
+        "Adjacent station": "Cambronne (Charles de Gaulle - Étoile, Paris Métro Line 6)Pasteur (Nation, Paris Métro Line 6)"
+    },
+    "Sèvres–Babylone (Paris Metro)": {
+        "Localisation": "48° 51′ 05″ N, 2° 19′ 36″ E",
+        "Named after": "rue de Sèvresrue de Babylone",
+        "Location": "6th arrondissement of Paris7th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 10 (1923–)Paris Métro Line 12",
+        "Adjacent station": "Vaneau (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Mabillon (Gare d'Austerlitz, Paris Métro Line 10)Rue du Bac (Mairie d'Aubervilliers, Paris Métro Line 12)Rennes (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Simplon (Paris Metro)": {
+        "Localisation": "48° 53′ 40.68″ N, 2° 20′ 49.53″ E",
+        "Named after": "Rue du Simplon",
+        "Location": "18th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "21 April 1908",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Porte de Clignancourt (Porte de Clignancourt, Paris Métro Line 4)Marcadet – Poissonniers (Bagneux–Lucie Aubrac, Paris Métro Line 4)"
+    },
+    "Solférino (Paris Metro)": {
+        "Localisation": "48° 51′ 30″ N, 2° 19′ 24″ E",
+        "Named after": "rue de Solférino",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Assemblée nationale (Mairie d'Aubervilliers, Paris Métro Line 12)Rue du Bac (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Stalingrad (Paris Metro)": {
+        "Localisation": "48° 53′ 03.46″ N, 2° 21′ 57.48″ E",
+        "Location": "10th arrondissement of Paris19th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "31 January 1903",
+        "Connecting line": "Paris Métro Line 2Paris Métro Line 5 (1942–)Paris Métro Line 7 (1910–)",
+        "Adjacent station": "La Chapelle (Porte Dauphine, Paris Métro Line 2)Jaurès (Nation, Paris Métro Line 2)Gare du Nord (Place d'Italie, Paris Métro Line 5)Jaurès (Bobigny – Pablo Picasso, Paris Métro Line 5)Louis Blanc (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Riquet (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Strasbourg - Saint-Denis (Paris Metro)": {
+        "Localisation": "48° 52′ 09.12″ N, 2° 21′ 14.75″ E",
+        "Named after": "boulevard de Strasbourg (1931–)rue Saint-Denis",
+        "Location": "2nd arrondissement of Paris3rd arrondissement of Paris10th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 May 1908",
+        "Connecting line": "Paris Métro Line 4Paris Métro Line 8 (1931–)Paris Métro Line 9 (1933–)",
+        "Adjacent station": "Château d'Eau (Porte de Clignancourt, Paris Métro Line 4)Réaumur – Sébastopol (Bagneux–Lucie Aubrac, Paris Métro Line 4)Bonne Nouvelle (Balard, Paris Métro Line 8)République (Pointe du Lac, Paris Métro Line 8)Bonne Nouvelle (Pont de Sèvres, Paris Métro Line 9)République (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Sully - Morland (Paris Metro)": {
+        "Localisation": "48° 51′ 05″ N, 2° 21′ 42.01″ E",
+        "Named after": "Pont de Sullyboulevard Morland",
+        "Location": "4th arrondissement of Paris, Paris Centre, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "3 June 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Jussieu (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Pont Marie (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Temple (Paris Metro)": {
+        "Localisation": "48° 51′ 59.4″ N, 2° 21′ 38.1″ E"
+    },
+    "Ternes (Paris Metro)": {},
+    "Thiais - Orly (Paris Metro)": {
+        "Localisation": "48° 44′ 51″ N, 2° 22′ 23″ E",
+        "Location": "Thiais, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Valode & Pistre",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "24 June 2024",
+        "Connecting line": "Paris Métro Line 14 (Aéroport d'Orly, Chevilly-Larue)",
+        "Adjacent station": "Chevilly-Larue (Saint-Denis Pleyel, Paris Métro Line 14)Aéroport d'Orly (Aéroport d'Orly, Paris Métro Line 14)",
+        "Interchange station": "Pont de Rungis – Aéroport d'Orly"
+    },
+    "Tolbiac (Paris Metro)": {
+        "Localisation": "48° 49′ 35.05″ N, 2° 21′ 25.98″ E",
+        "Named after": "rue de Tolbiac",
+        "Location": "13th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "7 March 1930",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Maison Blanche (Villejuif - Louis Aragon, Mairie d'Ivry, Paris Métro Line 7)Place d'Italie (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Télégraphe (Paris Metro)": {
+        "Localisation": "48° 52′ 31.01″ N, 2° 23′ 53.99″ E",
+        "Location": "19th arrondissement of Paris20th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "28 April 1935",
+        "Connecting line": "Paris Métro Line 11",
+        "Adjacent station": "Place des Fêtes (Châtelet, Paris Métro Line 11)Porte des Lilas (Rosny-Bois-Perrier, Paris Métro Line 11)"
+    },
+    "Trinité - d'Estienne d'Orves (Paris Metro)": {
+        "Localisation": "48° 52′ 34.79″ N, 2° 19′ 57.5″ E",
+        "Named after": "Église de la Sainte-Trinitéplace d'Estienne-d'Orves",
+        "Location": "9th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Notre-Dame-de-Lorette (Mairie d'Aubervilliers, Paris Métro Line 12)Saint-Lazare (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "La Tour-Maubourg (Paris Metro)": {
+        "Localisation": "48° 51′ 27″ N, 2° 18′ 37.01″ E",
+        "Named after": "boulevard de La Tour-Maubourg",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "13 July 1913",
+        "Connecting line": "Paris Métro Line 8",
+        "Adjacent station": "École Militaire (Balard, Paris Métro Line 8)Invalides (Pointe du Lac, Paris Métro Line 8)"
+    },
+    "Trocadéro (Paris Metro)": {
+        "Localisation": "48° 51′ 47.88″ N, 2° 17′ 13.42″ E",
+        "Named after": "Place du Trocadéro",
+        "Location": "16th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "2 October 1900",
+        "Date of official opening": "2 October 1900",
+        "Connecting line": "Paris Métro Line 6Paris Métro Line 9 (1922–)",
+        "Adjacent station": "Boissière (Charles de Gaulle - Étoile, Paris Métro Line 6)Passy (Nation, Paris Métro Line 6)Rue de la Pompe (Pont de Sèvres, Paris Métro Line 9)Iéna (Mairie de Montreuil, Paris Métro Line 9)"
+    },
+    "Tuileries (Paris Metro)": {
+        "Localisation": "48° 51′ 52.2″ N, 2° 19′ 49.1″ E"
+    },
+    "Val de Fontenay (Paris Metro)": {
+        "Localisation": "48° 51′ 20.16″ N, 2° 29′ 22.81″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 1Paris Métro Line 15",
+        "Adjacent station": "Rosny-Bois-Perrier (Saint-Denis Pleyel, Paris Métro Line 15)Nogent - Le Perreux (Champigny Centre, Paris Métro Line 15)Grand Pêchers (La Défense, Paris Métro Line 1)",
+        "Interchange station": "Gare du Val de Fontenay"
+    },
+    "Université Paris-Saclay (Paris Metro)": {
+        "Localisation": "48° 42′ 43″ N, 2° 10′ 26″ E",
+        "Location": "Orsay, Essonne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Benthem Crouwel Architects",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "CEA Saint-Aubin (Nanterre La Folie, Paris Métro Line 18)Polytechnique (Aéroport d'Orly, Paris Métro Line 18)"
+    },
+    "Vavin (Paris Metro)": {
+        "Localisation": "48° 50′ 31.21″ N, 2° 19′ 44.41″ E",
+        "Named after": "rue Vavin",
+        "Location": "6th arrondissement of Paris14th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1910",
+        "Date of official opening": "9 January 1910",
+        "Connecting line": "Paris Métro Line 4",
+        "Adjacent station": "Montparnasse – Bienvenüe (Porte de Clignancourt, Paris Métro Line 4)Raspail (Bagneux–Lucie Aubrac, Paris Métro Line 4)"
+    },
+    "Vaneau (Paris Metro)": {
+        "Localisation": "48° 50′ 56″ N, 2° 19′ 17″ E",
+        "Named after": "rue Vaneau",
+        "Location": "6th arrondissement of Paris7th arrondissement of ParisFrance",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "30 December 1923",
+        "Connecting line": "Paris Métro Line 10",
+        "Adjacent station": "Duroc (Boulogne – Pont de Saint-Cloud, Paris Métro Line 10)Sèvres–Babylone (Gare d'Austerlitz, Paris Métro Line 10)"
+    },
+    "Varenne (Paris Metro)": {
+        "Localisation": "48° 51′ 22″ N, 2° 18′ 52.99″ E",
+        "Named after": "rue de Varenne",
+        "Location": "7th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "20 December 1923",
+        "Connecting line": "Paris Métro Line 13",
+        "Adjacent station": "Invalides (Les Courtilles, Saint-Denis – Université, Paris Métro Line 13)Saint-François-Xavier (Châtillon - Montrouge, Paris Métro Line 13)"
+    },
+    "Vaugirard (Paris Metro)": {
+        "Localisation": "48° 50′ 23″ N, 2° 18′ 05″ E",
+        "Named after": "rue de Vaugirard",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Volontaires (Mairie d'Aubervilliers, Paris Métro Line 12)Convention (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Versailles Chantiers (Paris Metro)": {
+        "Localisation": "48° 47′ 41″ N, 2° 08′ 12″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 18",
+        "Adjacent station": "Satory (Aéroport d'Orly, Paris Métro Line 18)Rueil (Nanterre La Folie, Paris Métro Line 18)",
+        "Interchange station": "Gare de Versailles-ChantiersQ85979995"
+    },
+    "Le Vert de Maisons (Paris Metro)": {
+        "Localisation": "48° 47′ 21.84″ N, 2° 25′ 57.04″ E",
+        "Transport network": "Paris Métro",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Les Ardoines (Pont de Sèvres, Paris Métro Line 15)Créteil - L'Échat (Noisy - Champs, Paris Métro Line 15)",
+        "Different from": "Le Vert de Maisons"
+    },
+    "Villejuif - Louis Aragon (Paris Metro)": {
+        "Localisation": "48° 47′ 13.83″ N, 2° 22′ 03.23″ E",
+        "Named after": "Louis AragonVillejuif",
+        "Location": "Villejuif, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Philippe Gazeau",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1985",
+        "Date of official opening": "28 February 1985",
+        "Connecting line": "Paris Métro Line 7Paris Métro Line 15 (building or structure under construction)",
+        "Adjacent station": "Villejuif – Paul Vaillant-Couturier (La Courneuve - 8 Mai 1945, Paris Métro Line 7)Villejuif - Gustave Roussy (Pont de Sèvres, Paris Métro Line 15, building or structure under construction)Vitry Centre (Noisy - Champs, Paris Métro Line 15, building or structure under construction)",
+        "Interchange station": "Villejuif - Louis Aragon"
+    },
+    "Victor Hugo (Paris Metro)": {
+        "Localisation": "48° 52′ 11.81″ N, 2° 17′ 08.33″ E"
+    },
+    "Villejuif - Paul Vaillant-Couturier (Paris Metro)": {
+        "Localisation": "48° 47′ 44.99″ N, 2° 22′ 05.02″ E",
+        "Named after": "Villejuifavenue Paul-Vaillant-Couturier",
+        "Location": "Villejuif, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1985",
+        "Date of official opening": "28 February 1985",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Villejuif - Louis Aragon (Villejuif - Louis Aragon, Paris Métro Line 7)Villejuif – Léo Lagrange (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Villejuif - Léo Lagrange (Paris Metro)": {
+        "Localisation": "48° 48′ 13″ N, 2° 21′ 50″ E",
+        "Named after": "VillejuifLéo Lagrange",
+        "Location": "Villejuif, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "28 February 1985",
+        "Connecting line": "Paris Métro Line 7",
+        "Adjacent station": "Villejuif – Paul Vaillant-Couturier (Villejuif - Louis Aragon, Paris Métro Line 7)Le Kremlin-Bicêtre (La Courneuve - 8 Mai 1945, Paris Métro Line 7)"
+    },
+    "Villejuif - Gustave Roussy (Paris Metro)": {
+        "Localisation": "48° 47′ 35.02″ N, 2° 20′ 57.74″ E",
+        "Named after": "VillejuifInstitut Gustave Roussy",
+        "Location": "Villejuif, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Dominique Perrault",
+        "Date of official opening": "18 January 2025 (forecasting, 12:30)",
+        "Significant event": "Déclaration d'utilité publique (2014)",
+        "Connecting line": "Paris Métro Line 14",
+        "Adjacent station": "Hôpital Bicêtre (Saint-Denis Pleyel, Paris Métro Line 14)L'Haÿ-les-Roses (Aéroport d'Orly, Paris Métro Line 14)Arcueil - Cachan (Pont de Sèvres, Paris Métro Line 15)Villejuif - Louis Aragon (Noisy - Champs, Paris Métro Line 15)"
+    },
+    "Villiers (Paris Metro)": {},
+    "Villiers - Champigny - Bry (Paris Metro)": {
+        "Localisation": "48° 49′ 26.4″ N, 2° 31′ 34.36″ E",
+        "Location": "Villiers-sur-Marne, arrondissement of Nogent-sur-Marne, Val-de-Marne, Île-de-France, Metropolitan France, France",
+        "Transport network": "Paris Métro",
+        "Architect": "Thomas Richez",
+        "Connecting line": "Paris Métro Line 15",
+        "Adjacent station": "Champigny Centre (Pont de Sèvres, Paris Métro Line 15)Noisy - Champs (Noisy - Champs, Paris Métro Line 15)",
+        "Interchange station": "Q60176208 (proposed building or structure)"
+    },
+    "Volontaires (Paris Metro)": {
+        "Localisation": "48° 50′ 29″ N, 2° 18′ 27″ E",
+        "Named after": "rue des Volontaires",
+        "Location": "15th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Date of official opening": "5 November 1910",
+        "Connecting line": "Paris Métro Line 12",
+        "Adjacent station": "Pasteur (Mairie d'Aubervilliers, Paris Métro Line 12)Vaugirard (Mairie d'Issy, Paris Métro Line 12)"
+    },
+    "Voltaire (Paris Metro)": {
+        "Localisation": "48° 51′ 29.02″ N, 2° 22′ 49.01″ E",
+        "Named after": "Voltaire",
+        "Location": "11th arrondissement of Paris, Paris, Grand Paris, France",
+        "Transport network": "Paris Métro",
+        "Owned by": "RATP",
+        "Operator": "RATP",
+        "Inception": "1933",
+        "Date of official opening": "10 December 1933",
+        "Connecting line": "Paris Métro Line 9",
+        "Adjacent station": "Saint-Ambroise (Pont de Sèvres, Paris Métro Line 9)Charonne (Mairie de Montreuil, Paris Métro Line 9)",
+        "Different from": "Voltaire "
+    },
+    "Wagram (Paris Metro)": {}
+}
