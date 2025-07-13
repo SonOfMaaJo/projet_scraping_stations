@@ -73,8 +73,6 @@ Explorez les données collectées à travers ces visualisations interactives et 
 *   **Carte du Métro de Paris :** [Voir la carte interactive](https://SonOfMaaJo.github.io/projet_scraping_stations/paris_metro_map.html)
 *   **Heatmap des Stations de Paris :** [Voir la heatmap interactive](https://SonOfMaaJo.github.io/projet_scraping_stations/heatmap_stations_paris.html)
 *   **Évolution du Nombre de Stations par Décennie (Paris) :** [Voir le graphique](https://SonOfMaaJo.github.io/projet_scraping_stations/stations_per_decade.png)
-*   **Nombre de stations par type de transport :** [Voir le graphique](https://SonOfMaaJo.github.io/projet_scraping_stations/stations_by_transport_type.png)
-
 ## Fichiers d'entrée
 
 Le fichier `input/urls.txt` contient une liste d'URLs, une par ligne, représentant les catégories de stations à scraper. Vous pouvez modifier ce fichier pour inclure ou exclure des URLs selon vos besoins.
