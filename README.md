@@ -27,9 +27,9 @@ projet_scraping_capstone_v2/
     ```
 3.  **Installer les dépendances Python** :
     ```bash
-    pip install requests beautifulsoup4 tqdm
+    pip install -r requirements.txt
     ```
-    *(Note: Un fichier `requirements.txt` sera ajouté ultérieurement pour simplifier cette étape.)*
+    *(Assurez-vous d'avoir activé votre environnement virtuel avant d'exécuter cette commande.)*
 
 ## Utilisation
 
